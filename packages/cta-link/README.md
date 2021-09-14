@@ -1,4 +1,4 @@
-@gov.au/cta-link
+@gold.au/cta-link
 ============
 
 > Use cta links to draw attention to a primary call to action.
@@ -21,11 +21,11 @@
 
 
 ```shell
-yarn add @gov.au/cta-link
+yarn add @gold.au/cta-link
 ```
 
 ```shell
-npm install @gov.au/cta-link
+npm install @gold.au/cta-link
 ```
 
 

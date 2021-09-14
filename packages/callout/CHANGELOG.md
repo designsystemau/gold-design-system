@@ -1,4 +1,4 @@
-@gov.au/callout CHANGELOG
+@gold.au/callout CHANGELOG
 ======================
 
 > Part of the [gov.au components](https://github.com/govau/design-system-components/) ecosystem.

@@ -1,5 +1,5 @@
 {
-	"name": "@gov.au/form",
+	"name": "@gold.au/form",
 	"version": "0.1.6",
 	"description": "The form component contains layout, labelling and inline validations for form fields",
 	"keywords": [
@@ -53,10 +53,10 @@
 		"@gov.au/pancake-sass": "~2",
 		"@gov.au/pancake-react": "~1",
 		"@gov.au/pancake-json": "~1",
-		"@gov.au/core": "^4.0.0"
+		"@gold.au/core": "^4.0.0"
 	},
 	"peerDependencies": {
-		"@gov.au/core": "^4.0.0"
+		"@gold.au/core": "^4.0.0"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.3.4",

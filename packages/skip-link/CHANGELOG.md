@@ -1,4 +1,4 @@
-@gov.au/skip-link CHANGELOG
+@gold.au/skip-link CHANGELOG
 ======================
 
 > Part of the [gov.au components](https://github.com/govau/design-system-components/) ecosystem.

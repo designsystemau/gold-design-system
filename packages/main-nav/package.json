@@ -1,5 +1,5 @@
 {
-	"name": "@gov.au/main-nav",
+	"name": "@gold.au/main-nav",
 	"version": "1.0.9",
 	"description": "Horizontal list of links to key areas on the website. Usually located in the header.",
 	"keywords": [
@@ -64,14 +64,14 @@
 		"@gov.au/pancake-react": "~1",
 		"@gov.au/pancake-json": "~1",
 
-		"@gov.au/core": "^4.0.0",
-		"@gov.au/animate": "^1.0.0",
-		"@gov.au/link-list": "^3.0.0"
+		"@gold.au/core": "^4.0.0",
+		"@gold.au/animate": "^1.0.0",
+		"@gold.au/link-list": "^3.0.0"
 	},
 	"peerDependencies": {
-		"@gov.au/core": "^4.0.0",
-		"@gov.au/animate": "^1.0.0",
-		"@gov.au/link-list": "^3.0.0"
+		"@gold.au/core": "^4.0.0",
+		"@gold.au/animate": "^1.0.0",
+		"@gold.au/link-list": "^3.0.0"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.3.4",

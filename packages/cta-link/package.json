@@ -1,5 +1,5 @@
 {
-	"name": "@gov.au/cta-link",
+	"name": "@gold.au/cta-link",
 	"version": "2.2.1",
 	"description": "Use cta links to draw attention to a primary call to action.",
 	"keywords": [
@@ -61,10 +61,10 @@
 		"@gov.au/pancake-sass": "~2",
 		"@gov.au/pancake-react": "~1",
 		"@gov.au/pancake-json": "~1",
-		"@gov.au/core": "^4.0.0"
+		"@gold.au/core": "^4.0.0"
 	},
 	"peerDependencies": {
-		"@gov.au/core": "^4.0.0"
+		"@gold.au/core": "^4.0.0"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.3.4",

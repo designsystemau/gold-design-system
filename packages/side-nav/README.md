@@ -1,4 +1,4 @@
-@gov.au/side-nav
+@gold.au/side-nav
 ============
 
 > A vertical list of links for site navigation typically placed next to the body content.
@@ -21,11 +21,11 @@
 
 
 ```shell
-yarn add @gov.au/side-nav
+yarn add @gold.au/side-nav
 ```
 
 ```shell
-npm install @gov.au/side-nav
+npm install @gold.au/side-nav
 ```
 
 

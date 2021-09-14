@@ -1,5 +1,5 @@
 {
-	"name": "@gov.au/responsive-media",
+	"name": "@gold.au/responsive-media",
 	"version": "2.0.15",
 	"description": "Caters for video/slideshow dimensions and aspect ratios across various viewports/widths.",
 	"keywords": [
@@ -59,10 +59,10 @@
 		"@gov.au/pancake-sass": "~2",
 		"@gov.au/pancake-json": "~1",
 
-		"@gov.au/core": "^4.0.0"
+		"@gold.au/core": "^4.0.0"
 	},
 	"peerDependencies": {
-		"@gov.au/core": "^4.0.0"
+		"@gold.au/core": "^4.0.0"
 	},
 	"devDependencies": {
 		"browser-sync": "^2.26.7",

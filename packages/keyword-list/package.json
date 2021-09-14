@@ -1,5 +1,5 @@
 {
-	"name": "@gov.au/keyword-list",
+	"name": "@gold.au/keyword-list",
 	"version": "3.0.6",
 	"description": "A list style for emphasising parts of a list item, useful for repeating phrases across that list’s items. ",
 	"keywords": [
@@ -63,12 +63,12 @@
 		"@gov.au/pancake-react": "~1",
 		"@gov.au/pancake-json": "~1",
 
-		"@gov.au/core": "^4.0.0",
-		"@gov.au/link-list": "^3.0.0"
+		"@gold.au/core": "^4.0.0",
+		"@gold.au/link-list": "^3.0.0"
 	},
 	"peerDependencies": {
-		"@gov.au/core": "^4.0.0",
-		"@gov.au/link-list": "^3.0.0"
+		"@gold.au/core": "^4.0.0",
+		"@gold.au/link-list": "^3.0.0"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.3.4",

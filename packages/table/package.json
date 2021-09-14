@@ -1,5 +1,5 @@
 {
-	"name": "@gov.au/table",
+	"name": "@gold.au/table",
 	"version": "0.2.1",
 	"description": "Used to display tabular data",
 	"keywords": [
@@ -59,10 +59,10 @@
 		"@gov.au/pancake-react": "~1",
 		"@gov.au/pancake-json": "~1",
 
-		"@gov.au/core": "^4.0.0"
+		"@gold.au/core": "^4.0.0"
 	},
 	"peerDependencies": {
-		"@gov.au/core": "^4.0.0"
+		"@gold.au/core": "^4.0.0"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.3.4",

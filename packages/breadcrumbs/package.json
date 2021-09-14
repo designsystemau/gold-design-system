@@ -1,5 +1,5 @@
 {
-	"name": "@gov.au/breadcrumbs",
+	"name": "@gold.au/breadcrumbs",
 	"version": "3.0.6",
 	"description": "Breadcrumbs help users understand where they are in the service and how they got there.",
 	"keywords": [
@@ -55,12 +55,12 @@
 		"@gov.au/pancake-sass": "~2",
 		"@gov.au/pancake-react": "~1",
 		"@gov.au/pancake-json": "~1",
-		"@gov.au/core": "^4.0.0",
-		"@gov.au/link-list": "^3.0.0"
+		"@gold.au/core": "^4.0.0",
+		"@gold.au/link-list": "^3.0.0"
 	},
 	"peerDependencies": {
-		"@gov.au/core": "^4.0.0",
-		"@gov.au/link-list": "^3.0.0"
+		"@gold.au/core": "^4.0.0",
+		"@gold.au/link-list": "^3.0.0"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.3.4",

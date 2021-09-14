@@ -1,4 +1,4 @@
-@gov.au/main-nav
+@gold.au/main-nav
 ============
 
 > Horizontal list of links to key areas on the website. Usually located in the header.
@@ -20,11 +20,11 @@
 
 
 ```shell
-yarn add @gov.au/main-nav
+yarn add @gold.au/main-nav
 ```
 
 ```shell
-npm install @gov.au/main-nav
+npm install @gold.au/main-nav
 ```
 
 

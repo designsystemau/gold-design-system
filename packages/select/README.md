@@ -1,4 +1,4 @@
-@gov.au/select
+@gold.au/select
 ============
 
 > The form select element for multiple options
@@ -21,11 +21,11 @@
 
 
 ```shell
-yarn add @gov.au/select
+yarn add @gold.au/select
 ```
 
 ```shell
-npm install @gov.au/select
+npm install @gold.au/select
 ```
 
 

@@ -1,4 +1,4 @@
-@gov.au/animate
+@gold.au/animate
 ============
 
 > A JavaScript function to open, close and toggle the display of page elements.
@@ -21,11 +21,11 @@
 
 
 ```shell
-yarn add @gov.au/animate
+yarn add @gold.au/animate
 ```
 
 ```shell
-npm install @gov.au/animate
+npm install @gold.au/animate
 ```
 
 

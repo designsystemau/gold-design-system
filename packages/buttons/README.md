@@ -1,4 +1,4 @@
-@gov.au/buttons
+@gold.au/buttons
 ============
 
 > Buttons signal action. Use them to move the user through the service.
@@ -21,11 +21,11 @@
 
 
 ```shell
-yarn add @gov.au/buttons
+yarn add @gold.au/buttons
 ```
 
 ```shell
-npm install @gov.au/buttons
+npm install @gold.au/buttons
 ```
 
 

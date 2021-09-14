@@ -1,4 +1,4 @@
-@gov.au/breadcrumbs
+@gold.au/breadcrumbs
 ============
 
 > Breadcrumbs help users understand where they are in the service and how they got there.
@@ -21,11 +21,11 @@
 
 
 ```shell
-yarn add @gov.au/breadcrumbs
+yarn add @gold.au/breadcrumbs
 ```
 
 ```shell
-npm install @gov.au/breadcrumbs
+npm install @gold.au/breadcrumbs
 ```
 
 

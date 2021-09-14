@@ -1,4 +1,4 @@
-@gov.au/main-nav CHANGELOG
+@gold.au/main-nav CHANGELOG
 ======================
 
 > Part of the [gov.au components](https://github.com/govau/design-system-components/) ecosystem.

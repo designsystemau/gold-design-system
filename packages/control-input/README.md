@@ -1,4 +1,4 @@
-@gov.au/control-input
+@gold.au/control-input
 ============
 
 > Control inputs include radio buttons and checkboxes. They allow users to select one or more options.
@@ -21,11 +21,11 @@
 
 
 ```shell
-yarn add @gov.au/control-input
+yarn add @gold.au/control-input
 ```
 
 ```shell
-npm install @gov.au/control-input
+npm install @gold.au/control-input
 ```
 
 

@@ -1,5 +1,5 @@
 {
-	"name": "@gov.au/accordion",
+	"name": "@gold.au/accordion",
 	"version": "7.0.9",
 	"description": "Allow the user to toggle the visibility of an element",
 	"keywords": [
@@ -58,12 +58,12 @@
 		"@gov.au/pancake-sass": "~2",
 		"@gov.au/pancake-react": "~1",
 		"@gov.au/pancake-json": "~1",
-		"@gov.au/animate": "^1.0.0",
-		"@gov.au/core": "^4.0.0"
+		"@gold.au/animate": "^1.0.0",
+		"@gold.au/core": "^4.0.0"
 	},
 	"peerDependencies": {
-		"@gov.au/animate": "^1.0.0",
-		"@gov.au/core": "^4.0.0"
+		"@gold.au/animate": "^1.0.0",
+		"@gold.au/core": "^4.0.0"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.3.4",

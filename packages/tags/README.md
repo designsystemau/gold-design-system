@@ -1,4 +1,4 @@
-@gov.au/tags
+@gold.au/tags
 ============
 
 > Use tags to apply a taxonomy and link to similar content.
@@ -21,11 +21,11 @@
 
 
 ```shell
-yarn add @gov.au/tags
+yarn add @gold.au/tags
 ```
 
 ```shell
-npm install @gov.au/tags
+npm install @gold.au/tags
 ```
 
 

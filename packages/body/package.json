@@ -1,5 +1,5 @@
 {
-	"name": "@gov.au/body",
+	"name": "@gold.au/body",
 	"version": "2.2.1",
 	"description": "Basic body styles for body HTML elements",
 	"keywords": [
@@ -49,10 +49,10 @@
 		"@gov.au/pancake": "~1",
 		"@gov.au/pancake-sass": "~2",
 		"@gov.au/pancake-json": "~1",
-		"@gov.au/core": "^4.0.0"
+		"@gold.au/core": "^4.0.0"
 	},
 	"peerDependencies": {
-		"@gov.au/core": "^4.0.0"
+		"@gold.au/core": "^4.0.0"
 	},
 	"devDependencies": {
 		"browser-sync": "^2.26.7",

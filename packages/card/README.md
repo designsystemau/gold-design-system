@@ -1,4 +1,4 @@
-@gov.au/card
+@gold.au/card
 ============
 
 > Cards are used to organise information related to a single topic. Cards can contain multiple elements, such as images, links, buttons or text.
@@ -20,11 +20,11 @@
 
 
 ```shell
-yarn add @gov.au/card
+yarn add @gold.au/card
 ```
 
 ```shell
-npm install @gov.au/card
+npm install @gold.au/card
 ```
 
 
@@ -105,7 +105,7 @@ Licensed under [MIT](https://raw.githubusercontent.com/govau/design-system-compo
 Usage:
 
 ```jsx
-import AUcard, { AUcardInner, AUcardHeader, AUcardDivider, AUcardLink, AUcardFooter } from '@gov.au/card';
+import AUcard, { AUcardInner, AUcardHeader, AUcardDivider, AUcardLink, AUcardFooter } from '@gold.au/card';
 
 	<AUcard className="au-body">
 		<img className="au-responsive-media-img" src="http://placehold.it/1200x500" />

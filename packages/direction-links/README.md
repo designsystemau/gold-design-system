@@ -1,4 +1,4 @@
-@gov.au/direction-links
+@gold.au/direction-links
 ============
 
 > Use direction links to link up and down within the DOM or back to a parent page.
@@ -21,11 +21,11 @@
 
 
 ```shell
-yarn add @gov.au/direction-links
+yarn add @gold.au/direction-links
 ```
 
 ```shell
-npm install @gov.au/direction-links
+npm install @gold.au/direction-links
 ```
 
 

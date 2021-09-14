@@ -1,4 +1,4 @@
-@gov.au/link-list
+@gold.au/link-list
 ============
 
 > A simple list of inline links..
@@ -21,11 +21,11 @@
 
 
 ```shell
-yarn add @gov.au/link-list
+yarn add @gold.au/link-list
 ```
 
 ```shell
-npm install @gov.au/link-list
+npm install @gold.au/link-list
 ```
 
 

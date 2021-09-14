@@ -1,4 +1,4 @@
-@gov.au/grid-12 CHANGELOG
+@gold.au/grid-12 CHANGELOG
 ======================
 
 > Part of the [gov.au components](https://github.com/govau/design-system-components/) ecosystem.

@@ -1,4 +1,4 @@
-@gov.au/page-alerts
+@gold.au/page-alerts
 ============
 
 > Use page alerts to notify users of important information and state changes to the page.
@@ -20,11 +20,11 @@
 
 
 ```shell
-yarn add @gov.au/page-alerts
+yarn add @gold.au/page-alerts
 ```
 
 ```shell
-npm install @gov.au/page-alerts
+npm install @gold.au/page-alerts
 ```
 
 

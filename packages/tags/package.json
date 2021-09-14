@@ -1,5 +1,5 @@
 {
-	"name": "@gov.au/tags",
+	"name": "@gold.au/tags",
 	"version": "4.0.1",
 	"description": "Use tags to apply a taxonomy and link to similar content.",
 	"keywords": [
@@ -61,10 +61,10 @@
 		"@gov.au/pancake-react": "~1",
 		"@gov.au/pancake-json": "~1",
 
-		"@gov.au/core": "^4.0.0"
+		"@gold.au/core": "^4.0.0"
 	},
 	"peerDependencies": {
-		"@gov.au/core": "^4.0.0"
+		"@gold.au/core": "^4.0.0"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.3.4",

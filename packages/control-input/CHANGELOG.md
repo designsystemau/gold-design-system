@@ -1,4 +1,4 @@
-@gov.au/control-input CHANGELOG
+@gold.au/control-input CHANGELOG
 ======================
 
 > Part of the [gov.au components](https://github.com/govau/design-system-components/) ecosystem.
