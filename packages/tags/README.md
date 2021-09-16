@@ -116,7 +116,7 @@ All props:
 ```
 _(💡 additional props are spread onto the component)_
 
-For more details have a look at the [usage example](https://github.com/govau/design-system-components/tree/master/packages/tags/tests/react/index.js).
+For more details have a look at the [usage example](https://github.com/designsystemau/gold-design-system/tree/main/packages/tags/tests/react/index.js).
 
 
 **[⬆ back to top](#contents)**

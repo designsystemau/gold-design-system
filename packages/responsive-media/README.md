@@ -48,17 +48,6 @@ responsive-media
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## Tests
-
-The visual test: https://auds.service.gov.au/packages/responsive-media/tests/site/
-
-
-**[⬆ back to top](#contents)**
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
 ## Release History
 
 * v2.0.15 - Update core package dependency to use the latest version

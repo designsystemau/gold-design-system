@@ -8,7 +8,7 @@
 		"pancake-module",
 		"sass",
 		"scss",
-		"css",
+		"css","gold.au",
 		"gov.au",
 		"Commonwealth of Australia",
 		"design guide",
@@ -89,17 +89,16 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/govau/design-system-components.git"
+		"url": "https://github.com/designsystemau/gold-design-system.git"
 	},
-	"homepage": "https://designsystem.gov.au/components/footer",
+	"homepage": "https://gold.designsystemau.org/components/footer",
 	"bugs": {
-		"url": "https://github.com/govau/design-system-components/issues",
-		"email": "designsystem@digital.gov.au"
+		"url": "https://github.com/designsystemau/gold-design-system/issues"
 	},
 	"author": {
-		"name": "Commonwealth of Australia, DTA",
-		"email": "designsystem@digital.gov.au",
-		"url": "https://www.dta.gov.au/"
+		"name": "Design System AU",
+		"email": "maintainers@designsystemau.org",
+		"url": "https://designsystemau.org/"
 	},
 	"contributors": [
 		{

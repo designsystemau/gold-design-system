@@ -1,5 +1,5 @@
 {
-	"name": "@gov.au/[-replace-name-]",
+	"name": "@gold.au/[-replace-name-]",
 	"version": "[-replace-version-]",
 	"description": "[-replace-description-]",
 	"keywords": [
@@ -8,7 +8,7 @@
 		"pancake-module",
 		"sass",
 		"scss",
-		"css",
+		"css","gold.au",
 		"gov.au",
 		"Commonwealth of Australia",
 		"design guide",
@@ -63,11 +63,10 @@
 		"@gov.au/pancake-sass": "~2",
 		"@gov.au/pancake-react": "~1",
 		"@gov.au/pancake-json": "~1",
-
-		"@gov.au/core": "^4.0.0"
+		"@gold.au/core": "^4.0.0"
 	},
 	"peerDependencies": {
-		"@gov.au/core": "^4.0.0"
+		"@gold.au/core": "^4.0.0"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.3.4",
@@ -91,17 +90,16 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/govau/design-system-components.git"
+		"url": "https://github.com/designsystemau/gold-design-system.git"
 	},
-	"homepage": "https://designsystem.gov.au/components/[-replace-name-]",
+	"homepage": "https://gold.designsystemau.org/components/[-replace-name-]",
 	"bugs": {
-		"url": "https://github.com/govau/design-system-components/issues",
-		"email": "designsystem@digital.gov.au"
+		"url": "https://github.com/designsystemau/gold-design-system/issues"
 	},
 	"author": {
-		"name": "Commonwealth of Australia, DTA",
-		"email": "designsystem@digital.gov.au",
-		"url": "https://www.dta.gov.au/"
+		"name": "Design System AU",
+		"email": "maintainers@designsystemau.org",
+		"url": "https://designsystemau.org/"
 	},
 	"contributors": [
 		{

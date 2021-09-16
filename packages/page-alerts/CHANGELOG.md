@@ -2,7 +2,7 @@ Update dependenciesalerts CH3NGELOG
 @gold.au/page-aletsCHANGELOG
 ======================
 
-> Part of the [gov.au components](https://github.com/govau/design-system-components/) ecosystem.
+> Part of the [gold.au components](https://github.com/designsystemau/gold-design-system/) ecosystem.
 
 
 ## Contents
@@ -133,7 +133,7 @@ Update dependenciesalerts CH3NGELOG
 
 ### v0.1.1
 
-- Improved print styles ([#156](https://github.com/govau/design-system-components/issues/156))
+- Improved print styles ([#156](https://github.com/designsystemau/gold-design-system/issues/156))
 
 
 ### v0.1.0

@@ -82,7 +82,7 @@ All props:
 ```
 _(💡 additional props are spread onto the component)_
 
-For more details have a look at the [usage example](https://github.com/govau/design-system-components/tree/master/packages/skip-link/tests/react/index.js).
+For more details have a look at the [usage example](https://github.com/designsystemau/gold-design-system/tree/main/packages/skip-link/tests/react/index.js).
 
 
 **[⬆ back to top](#contents)**
@@ -100,18 +100,6 @@ skip-link
 
 
 **[⬆ back to top](#contents)**
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-## Tests
-
-The visual test: https://auds.service.gov.au/packages/skip-link/tests/site/
-
-
-**[⬆ back to top](#contents)**
-
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 

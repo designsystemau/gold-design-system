@@ -71,7 +71,7 @@ All props:
 ```
 _(💡 additional props are spread onto the component)_
 
-For more details have a look at the [usage example](https://github.com/govau/design-system-components/tree/master/packages/direction-links/tests/react/index.js).
+For more details have a look at the [usage example](https://github.com/designsystemau/gold-design-system/tree/main/packages/direction-links/tests/react/index.js).
 
 
 **[⬆ back to top](#contents)**
@@ -86,17 +86,6 @@ For more details have a look at the [usage example](https://github.com/govau/des
 direction-links
 └─ core
 ```
-
-
-**[⬆ back to top](#contents)**
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-## Tests
-
-The visual test: https://auds.service.gov.au/packages/direction-links/tests/site/
 
 
 **[⬆ back to top](#contents)**
