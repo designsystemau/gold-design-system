@@ -69,7 +69,7 @@ All props:
 />
 ```
 
-For more details have a look at the [usage example](https://github.com/designsystemau/gold-design-system/tree/master/packages/cta-link/tests/react/index.js).
+For more details have a look at the [usage example](https://github.com/designsystemau/gold-design-system/tree/main/packages/cta-link/tests/react/index.js).
 
 
 **[⬆ back to top](#contents)**

@@ -3,7 +3,7 @@ Contributing to GOLD Design System
 
 Hi there! Thank you for your interest in contributing to GOLD Design System, we really appreciate it.
 
-Join the community on [Slack](https://join.slack.com/t/govau-guides/shared_invite/zt-ti4e4rcl-x7212CuhA3eQtAxzuJqUbw).
+Join the community on [Slack](https://designsystemau-slack.herokuapp.com/).
 
 There are many ways to contribute:
 – reporting bugs
@@ -137,7 +137,7 @@ For example, what happens with a navigation component that has more items than d
 
 **Code comments.** Code should be commented so that it is as usable as possible. Try to provide reasoning or links to documentation about any peculiar decisions that had to be made. [For example.](https://github.com/designsystemau/gold-design-system/blob/main/packages/body/src/sass/_module.scss#L127)
 
-**Follow the folder structure.** New components should follow the same folder structure as the [existing components.](https://github.com/designsystemau/gold-design-system/tree/master/.templates/new-module)
+**Follow the folder structure.** New components should follow the same folder structure as the [existing components.](https://github.com/designsystemau/gold-design-system/tree/main/.templates/new-module)
 
 **CSS** can be dependent on other components, but must use core functions and mixins at a minimum.
 

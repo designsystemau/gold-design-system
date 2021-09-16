@@ -158,7 +158,7 @@ All props:
 ```
 _(💡 additional props are spread onto the component)_
 
-For more details have a look at the [usage example](https://github.com/designsystemau/gold-design-system/tree/master/packages/accordion/tests/react/index.js).
+For more details have a look at the [usage example](https://github.com/designsystemau/gold-design-system/tree/main/packages/accordion/tests/react/index.js).
 
 
 **[⬆ back to top](#contents)**
