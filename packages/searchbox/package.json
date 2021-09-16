@@ -1,5 +1,5 @@
 {
-	"name": "@gov.au/searchbox",
+	"name": "@gold.au/searchbox",
 	"version": "0.2.3",
 	"description": "",
 	"keywords": [
@@ -59,14 +59,14 @@
 		"@gov.au/pancake-react": "~1",
 		"@gov.au/pancake-json": "~1",
 
-		"@gov.au/core": "^4.0.0",
-		"@gov.au/text-inputs": "^2.0.0",
-		"@gov.au/buttons": "^3.0.0"
+		"@gold.au/core": "^4.0.0",
+		"@gold.au/text-inputs": "^2.0.0",
+		"@gold.au/buttons": "^3.0.0"
 	},
 	"peerDependencies": {
-		"@gov.au/core": "^4.0.0",
-		"@gov.au/text-inputs": "^2.0.0",
-		"@gov.au/buttons": "^3.0.0"
+		"@gold.au/core": "^4.0.0",
+		"@gold.au/text-inputs": "^2.0.0",
+		"@gold.au/buttons": "^3.0.0"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.3.4",

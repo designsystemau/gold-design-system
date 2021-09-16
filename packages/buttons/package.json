@@ -1,5 +1,5 @@
 {
-	"name": "@gov.au/buttons",
+	"name": "@gold.au/buttons",
 	"version": "3.0.8",
 	"description": "Buttons signal action. Use them to move the user through the service.",
 	"keywords": [
@@ -53,10 +53,10 @@
 		"@gov.au/pancake-sass": "~2",
 		"@gov.au/pancake-react": "~1",
 		"@gov.au/pancake-json": "~1",
-		"@gov.au/core": "^4.0.0"
+		"@gold.au/core": "^4.0.0"
 	},
 	"peerDependencies": {
-		"@gov.au/core": "^4.0.0"
+		"@gold.au/core": "^4.0.0"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.3.4",

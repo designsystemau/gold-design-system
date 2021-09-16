@@ -1,5 +1,5 @@
 {
-	"name": "@gov.au/grid-12",
+	"name": "@gold.au/grid-12",
 	"version": "2.1.1",
 	"description": "Implementation of the Bootstrap 3 grid.",
 	"keywords": [
@@ -55,10 +55,10 @@
 		"@gov.au/pancake-sass": "~2",
 		"@gov.au/pancake-json": "~1",
 
-		"@gov.au/core": "^4.0.0"
+		"@gold.au/core": "^4.0.0"
 	},
 	"peerDependencies": {
-		"@gov.au/core": "^4.0.0"
+		"@gold.au/core": "^4.0.0"
 	},
 	"devDependencies": {
 		"browser-sync": "^2.26.7",

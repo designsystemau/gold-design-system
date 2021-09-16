@@ -1,4 +1,4 @@
-@gov.au/text-inputs
+@gold.au/text-inputs
 ============
 
 > Single and multi-line text inputs.
@@ -21,11 +21,11 @@
 
 
 ```shell
-yarn add @gov.au/text-inputs
+yarn add @gold.au/text-inputs
 ```
 
 ```shell
-npm install @gov.au/text-inputs
+npm install @gold.au/text-inputs
 ```
 
 

@@ -1,4 +1,4 @@
-@gov.au/accordion
+@gold.au/accordion
 ============
 
 > Allow the user to toggle the visibility of an element
@@ -21,11 +21,11 @@
 
 
 ```shell
-yarn add @gov.au/accordion
+yarn add @gold.au/accordion
 ```
 
 ```shell
-npm install @gov.au/accordion
+npm install @gold.au/accordion
 ```
 
 

@@ -1,4 +1,4 @@
-@gov.au/animate CHANGELOG
+@gold.au/animate CHANGELOG
 ======================
 
 > Part of the [gov.au components](https://github.com/govau/design-system-components/) ecosystem.

@@ -1,4 +1,4 @@
-@gov.au/core
+@gold.au/core
 ============
 
 > The core module all [gov.au components modules](https://github.com/govau/design-system-components/) depend on.
@@ -21,11 +21,11 @@
 
 
 ```shell
-yarn add @gov.au/core
+yarn add @gold.au/core
 ```
 
 ```shell
-npm install @gov.au/core
+npm install @gold.au/core
 ```
 
 

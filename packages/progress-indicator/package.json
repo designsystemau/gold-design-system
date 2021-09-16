@@ -1,5 +1,5 @@
 {
-	"name": "@gov.au/progress-indicator",
+	"name": "@gold.au/progress-indicator",
 	"version": "3.1.8",
 	"description": "Indicator of progress through a multitude of pages mostly used for forms.",
 	"keywords": [
@@ -59,10 +59,10 @@
 		"@gov.au/pancake-react": "~1",
 		"@gov.au/pancake-json": "~1",
 
-		"@gov.au/core": "^4.0.0"
+		"@gold.au/core": "^4.0.0"
 	},
 	"peerDependencies": {
-		"@gov.au/core": "^4.0.0"
+		"@gold.au/core": "^4.0.0"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.3.4",

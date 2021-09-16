@@ -1,4 +1,4 @@
-@gov.au/headings
+@gold.au/headings
 ============
 
 > Class styles for display headings.
@@ -21,11 +21,11 @@
 
 
 ```shell
-yarn add @gov.au/headings
+yarn add @gold.au/headings
 ```
 
 ```shell
-npm install @gov.au/headings
+npm install @gold.au/headings
 ```
 
 

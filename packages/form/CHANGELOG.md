@@ -1,4 +1,4 @@
-@gov.au/form CHANGELOG
+@gold.au/form CHANGELOG
 ======================
 
 > Part of the [gov.au components](https://github.com/govau/design-system-components/) ecosystem.
@@ -16,7 +16,7 @@
 ## Versions
 
 * [v0.1.6 - Update core package dependency to use the latest version](#v016)
-* [v0.1.5 - Update version for the dependency: @gov.au/core](#v015)
+* [v0.1.5 - Update version for the dependency: @gold.au/core](#v015)
 * [v0.1.4 - Add margin between text area and form labels, hint text and error messages.](#v014)
 * [v0.1.3 - Remove --save-dev flag from readme instructions](#v013)
 * [v0.1.2 - Remove hint text colours as they are now in core](#v012)
@@ -36,7 +36,7 @@
 
 ### v0.1.5
 
-- Update version for the dependency: @gov.au/core
+- Update version for the dependency: @gold.au/core
 
 
 ### v0.1.4

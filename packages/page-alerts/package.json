@@ -1,5 +1,5 @@
 {
-	"name": "@gov.au/page-alerts",
+	"name": "@gold.au/page-alerts",
 	"version": "2.1.4",
 	"description": "Use page alerts to notify users of important information and state changes to the page.",
 	"keywords": [
@@ -66,12 +66,12 @@
 		"@gov.au/pancake-react": "~1",
 		"@gov.au/pancake-json": "~1",
 
-		"@gov.au/core": "^4.0.0",
-		"@gov.au/body": "^2.0.0"
+		"@gold.au/core": "^4.0.0",
+		"@gold.au/body": "^2.0.0"
 	},
 	"peerDependencies": {
-		"@gov.au/core": "^4.0.0",
-		"@gov.au/body": "^2.0.0"
+		"@gold.au/core": "^4.0.0",
+		"@gold.au/body": "^2.0.0"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.3.4",

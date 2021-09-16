@@ -1,4 +1,4 @@
-@gov.au/skip-link
+@gold.au/skip-link
 ============
 
 > Provide skip links to navigation and content.
@@ -21,11 +21,11 @@
 
 
 ```shell
-yarn add @gov.au/skip-link
+yarn add @gold.au/skip-link
 ```
 
 ```shell
-npm install @gov.au/skip-link
+npm install @gold.au/skip-link
 ```
 
 

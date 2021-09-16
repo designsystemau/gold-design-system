@@ -1,5 +1,5 @@
 {
-	"name": "@gov.au/card",
+	"name": "@gold.au/card",
 	"version": "0.3.3",
 	"description": "A container for all types of content",
 	"keywords": [
@@ -59,10 +59,10 @@
 		"@gov.au/pancake-react": "~1",
 		"@gov.au/pancake-json": "~1",
 
-		"@gov.au/core": "^4.0.0"
+		"@gold.au/core": "^4.0.0"
 	},
 	"peerDependencies": {
-		"@gov.au/core": "^4.0.0"
+		"@gold.au/core": "^4.0.0"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.3.4",

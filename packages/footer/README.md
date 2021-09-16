@@ -1,4 +1,4 @@
-@gov.au/footer
+@gold.au/footer
 ============
 
 > Footers help users who reach the bottom of a page without finding what they want.
@@ -21,11 +21,11 @@
 
 
 ```shell
-yarn add @gov.au/footer
+yarn add @gold.au/footer
 ```
 
 ```shell
-npm install @gov.au/footer
+npm install @gold.au/footer
 ```
 
 

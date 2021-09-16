@@ -1,5 +1,5 @@
 {
-	"name": "@gov.au/header",
+	"name": "@gold.au/header",
 	"version": "4.1.13",
 	"description": "Headers provide a consistent start to pages.",
 	"keywords": [
@@ -61,10 +61,10 @@
 		"@gov.au/pancake-react": "~1",
 		"@gov.au/pancake-json": "~1",
 
-		"@gov.au/core": "^4.0.0"
+		"@gold.au/core": "^4.0.0"
 	},
 	"peerDependencies": {
-		"@gov.au/core": "^4.0.0"
+		"@gold.au/core": "^4.0.0"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.3.4",

@@ -1,4 +1,4 @@
-@gov.au/table CHANGELOG
+@gold.au/table CHANGELOG
 ======================
 
 > Part of the [gov.au components](https://github.com/govau/design-system-components/) ecosystem.

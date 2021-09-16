@@ -1,5 +1,5 @@
 {
-	"name": "@gov.au/link-list",
+	"name": "@gold.au/link-list",
 	"version": "3.0.9",
 	"description": "A simple list of inline links.",
 	"keywords": [
@@ -62,12 +62,12 @@
 		"@gov.au/pancake-react": "~1",
 		"@gov.au/pancake-json": "~1",
 
-		"@gov.au/core": "^4.0.0",
-		"@gov.au/body": "^2.0.0"
+		"@gold.au/core": "^4.0.0",
+		"@gold.au/body": "^2.0.0"
 	},
 	"peerDependencies": {
-		"@gov.au/core": "^4.0.0",
-		"@gov.au/body": "^2.0.0"
+		"@gold.au/core": "^4.0.0",
+		"@gold.au/body": "^2.0.0"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.3.4",

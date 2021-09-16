@@ -1,4 +1,4 @@
-@gov.au/side-nav CHANGELOG
+@gold.au/side-nav CHANGELOG
 ======================
 
 > Part of the [gov.au components](https://github.com/govau/design-system-components/) ecosystem.

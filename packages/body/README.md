@@ -1,4 +1,4 @@
-@gov.au/body
+@gold.au/body
 ============
 
 > Basic body styles for body HTML elements.
@@ -20,11 +20,11 @@
 
 
 ```shell
-yarn add @gov.au/body
+yarn add @gold.au/body
 ```
 
 ```shell
-npm install @gov.au/body
+npm install @gold.au/body
 ```
 
 

@@ -1,4 +1,4 @@
-@gov.au/header
+@gold.au/header
 ============
 
 > Headers provide a consistent start to pages.
@@ -21,11 +21,11 @@
 
 
 ```shell
-yarn add @gov.au/header
+yarn add @gold.au/header
 ```
 
 ```shell
-npm install @gov.au/header
+npm install @gold.au/header
 ```
 
 

@@ -1,5 +1,5 @@
 Update dependenciesalerts CH3NGELOG
-@gov.au/page-aletsCHANGELOG
+@gold.au/page-aletsCHANGELOG
 ======================
 
 > Part of the [gov.au components](https://github.com/govau/design-system-components/) ecosystem.

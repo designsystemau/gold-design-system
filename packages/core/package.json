@@ -1,5 +1,5 @@
 {
-	"name": "@gov.au/core",
+	"name": "@gold.au/core",
 	"version": "4.0.0",
 	"description": "The core module all components modules depend on",
 	"keywords": [

@@ -1,4 +1,4 @@
-@gov.au/progress-indicator
+@gold.au/progress-indicator
 ============
 
 > Indicator of progress through a multitude of pages mostly used for forms.
@@ -21,11 +21,11 @@
 
 
 ```shell
-yarn add @gov.au/progress-indicator
+yarn add @gold.au/progress-indicator
 ```
 
 ```shell
-npm install @gov.au/progress-indicator
+npm install @gold.au/progress-indicator
 ```
 
 

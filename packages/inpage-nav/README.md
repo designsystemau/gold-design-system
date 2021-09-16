@@ -1,4 +1,4 @@
-@gov.au/inpage-nav
+@gold.au/inpage-nav
 ============
 
 > Use inpage-nav links to help users scan and jump to content of a page.
@@ -21,11 +21,11 @@
 
 
 ```shell
-yarn add @gov.au/inpage-nav
+yarn add @gold.au/inpage-nav
 ```
 
 ```shell
-npm install @gov.au/inpage-nav
+npm install @gold.au/inpage-nav
 ```
 
 
