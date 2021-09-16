@@ -96,7 +96,7 @@ All props:
 ```
 _(💡 additional props are spread onto the component)_
 
-For more details have a look at the [usage example](https://github.com/govau/design-system-components/tree/master/packages/progress-indicator/tests/react/index.js).
+For more details have a look at the [usage example](https://github.com/designsystemau/gold-design-system/tree/master/packages/progress-indicator/tests/react/index.js).
 
 
 **[⬆ back to top](#contents)**
@@ -114,18 +114,6 @@ progress-indicator
 
 
 **[⬆ back to top](#contents)**
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-## Tests
-
-The visual test: https://auds.service.gov.au/packages/progress-indicator/tests/site/
-
-
-**[⬆ back to top](#contents)**
-
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 

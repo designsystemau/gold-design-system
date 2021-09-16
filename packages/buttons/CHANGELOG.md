@@ -1,7 +1,7 @@
 @gold.au/buttons CHANGELOG
 ======================
 
-> Part of the [gov.au components](https://github.com/govau/design-system-components/) ecosystem.
+> Part of the [gov.au components](https://github.com/designsystemau/gold-design-system/) ecosystem.
 
 
 ## Contents
@@ -111,12 +111,12 @@
 
 ### v1.0.2
 
-- Fixed issue with secondary button hover IE8 [312](https://github.com/govau/design-system-components/issues/312)
+- Fixed issue with secondary button hover IE8 [312](https://github.com/designsystemau/gold-design-system/issues/312)
 
 
 ### v1.0.1
 
-- Fixed specificity issue when combined with body [197](https://github.com/govau/design-system-components/issues/197)
+- Fixed specificity issue when combined with body [197](https://github.com/designsystemau/gold-design-system/issues/197)
 
 
 ### v1.0.0
@@ -140,13 +140,13 @@
 
 ### v0.3.0
 
-- Added more robust CSS code ([#162](https://github.com/govau/design-system-components/issues/162))
-- Fixed px values ([#171](https://github.com/govau/design-system-components/issues/171))
+- Added more robust CSS code ([#162](https://github.com/designsystemau/gold-design-system/issues/162))
+- Fixed px values ([#171](https://github.com/designsystemau/gold-design-system/issues/171))
 
 
 ### v0.2.0
 
-- Added block modifier ([#155](https://github.com/govau/design-system-components/issues/155))
+- Added block modifier ([#155](https://github.com/designsystemau/gold-design-system/issues/155))
 
 
 ### v0.1.0

@@ -1,7 +1,7 @@
 @gold.au/control-input CHANGELOG
 ======================
 
-> Part of the [gov.au components](https://github.com/govau/design-system-components/) ecosystem.
+> Part of the [gold.au components](https://github.com/designsystemau/gold-design-system/) ecosystem.
 
 
 ## Contents
@@ -162,7 +162,7 @@
 
 ### v0.1.1
 
-- Fixed a Safari bug that made the labels break into another line. HastagSafariIsTheNewIE. ([#184](https://github.com/govau/design-system-components/issues/184))
+- Fixed a Safari bug that made the labels break into another line. HastagSafariIsTheNewIE. ([#184](https://github.com/designsystemau/gold-design-system/issues/184))
 
 
 ### v0.1.0

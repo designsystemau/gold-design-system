@@ -6,6 +6,6 @@ We'd prefer you ask your question in the open, if possible. It's likely that oth
 
 - [Post on our Community Forum](https://community.digital.gov.au/c/designsystem)
 - [Join our Slack Channel](https://govau-guides.slack.com/)
-- [Raise a GitHub issue](https://github.com/govau/design-system-components/issues/new/choose)
+- [Raise a GitHub issue](https://github.com/designsystemau/gold-design-system/issues/new/choose)
 
 As a last resort, you can email the core development team directly at designsystem@dta.gov.au

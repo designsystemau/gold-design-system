@@ -1,7 +1,7 @@
 @gov.au/more-link CHANGELOG
 ======================
 
-> Part of the [gov.au components](https://github.com/govau/design-system-components/) ecosystem.
+> Part of the [gov.au components](https://github.com/designsystemau/gold-design-system/) ecosystem.
 
 
 ## Contents

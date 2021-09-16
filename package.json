@@ -1,9 +1,11 @@
 {
-	"name": "auds",
+	"name": "@gold/design-system",
+	"private": true,
+	"version": "0.0.0",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/govau/design-system-components"
+		"url": "https://github.com/designsystemau/gold-design-system"
 	},
 	"devDependencies": {
 		"autoprefixer": "^9.4.10",
