@@ -581,8 +581,8 @@ npm run test
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Related repositories
-- [govau/design-system-starter](https://github.com/designsystemau/design-system-starter)
-- [govau/design-system-site](https://github.com/chameleon/design-system-site)
+- [design-system-starter](https://github.com/designsystemau/design-system-starter)
+- [gold-design-system-site](https://github.com/designsystemau/gold-design-system-site)
 
 **[⬆ back to top](#contents)**
 
