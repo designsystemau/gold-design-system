@@ -24,6 +24,7 @@
 		"treeify": "^1.1.0"
 	},
 	"scripts": {
+		"feature": "npx changeset",
 		"scaffolding": "node ./scripts/helper.js scaffolding",
 		"bootstrap": "lerna bootstrap --hoist",
 		"build": "lerna run build",
