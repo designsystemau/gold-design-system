@@ -1,5 +1,6 @@
 {
 	"name": "@gold.au/cta-link",
+	"private": true,
 	"version": "2.2.1",
 	"description": "Use cta links to draw attention to a primary call to action.",
 	"keywords": [

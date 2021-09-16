@@ -1,5 +1,6 @@
 {
 	"name": "@gold.au/accordion",
+	"private": true,
 	"version": "7.0.9",
 	"description": "Allow the user to toggle the visibility of an element",
 	"keywords": [

@@ -1,5 +1,6 @@
 {
 	"name": "@gold.au/animate",
+	"private": true,
 	"version": "1.0.14",
 	"description": "A JavaScript function to animate CSS properties of page elements.",
 	"keywords": [

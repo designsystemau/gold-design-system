@@ -1,5 +1,6 @@
 {
 	"name": "@gold.au/skip-link",
+	"private": true,
 	"version": "2.0.17",
 	"description": "Provide skip links to navigation and content.",
 	"keywords": [

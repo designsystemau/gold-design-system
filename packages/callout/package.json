@@ -1,5 +1,6 @@
 {
 	"name": "@gold.au/callout",
+	"private": true,
 	"version": "3.0.3",
 	"description": "Use callout to notify and alert users of important snippets of information.",
 	"keywords": [

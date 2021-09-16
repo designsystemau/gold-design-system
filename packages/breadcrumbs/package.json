@@ -1,5 +1,6 @@
 {
 	"name": "@gold.au/breadcrumbs",
+	"private": true,
 	"version": "3.0.6",
 	"description": "Breadcrumbs help users understand where they are in the service and how they got there.",
 	"keywords": [

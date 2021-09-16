@@ -1,5 +1,6 @@
 {
 	"name": "@gold.au/direction-links",
+	"private": true,
 	"version": "3.0.1",
 	"description": "Use direction links to link up and down within the DOM or back to a parent page.",
 	"keywords": [

@@ -1,5 +1,6 @@
 {
 	"name": "@gold.au/keyword-list",
+	"private": true,
 	"version": "3.0.6",
 	"description": "A list style for emphasising parts of a list item, useful for repeating phrases across that list’s items. ",
 	"keywords": [

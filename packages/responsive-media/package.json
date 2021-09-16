@@ -1,5 +1,6 @@
 {
 	"name": "@gold.au/responsive-media",
+	"private": true,
 	"version": "2.0.15",
 	"description": "Caters for video/slideshow dimensions and aspect ratios across various viewports/widths.",
 	"keywords": [

@@ -1,5 +1,6 @@
 {
 	"name": "@gold.au/select",
+	"private": true,
 	"version": "2.0.12",
 	"description": "The form select element for multiple options",
 	"keywords": [

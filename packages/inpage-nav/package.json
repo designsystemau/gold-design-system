@@ -1,5 +1,6 @@
 {
 	"name": "@gold.au/inpage-nav",
+	"private": true,
 	"version": "3.0.7",
 	"description": "Use inpage-nav links to help users scan and jump to content of a page.",
 	"keywords": [

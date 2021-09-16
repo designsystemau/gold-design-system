@@ -1,5 +1,6 @@
 {
 	"name": "@gold.au/footer",
+	"private": true,
 	"version": "3.0.6",
 	"description": "Footers help users who reach the bottom of a page without finding what they want.",
 	"keywords": [

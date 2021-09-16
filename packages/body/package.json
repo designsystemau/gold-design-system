@@ -1,5 +1,6 @@
 {
 	"name": "@gold.au/body",
+	"private": true,
 	"version": "2.2.1",
 	"description": "Basic body styles for body HTML elements",
 	"keywords": [

@@ -1,5 +1,6 @@
 {
 	"name": "@gold.au/table",
+	"private": true,
 	"version": "0.2.1",
 	"description": "Used to display tabular data",
 	"keywords": [

@@ -1,5 +1,6 @@
 {
 	"name": "@gold.au/core",
+	"private": true,
 	"version": "4.0.0",
 	"description": "The core module all components modules depend on",
 	"keywords": [

@@ -1,5 +1,6 @@
 {
 	"name": "@gold.au/page-alerts",
+	"private": true,
 	"version": "2.1.4",
 	"description": "Use page alerts to notify users of important information and state changes to the page.",
 	"keywords": [

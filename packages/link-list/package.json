@@ -1,5 +1,6 @@
 {
 	"name": "@gold.au/link-list",
+	"private": true,
 	"version": "3.0.9",
 	"description": "A simple list of inline links.",
 	"keywords": [

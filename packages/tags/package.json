@@ -1,5 +1,6 @@
 {
 	"name": "@gold.au/tags",
+	"private": true,
 	"version": "4.0.1",
 	"description": "Use tags to apply a taxonomy and link to similar content.",
 	"keywords": [

@@ -1,5 +1,6 @@
 {
 	"name": "@gold.au/card",
+	"private": true,
 	"version": "0.3.3",
 	"description": "A container for all types of content",
 	"keywords": [

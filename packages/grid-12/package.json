@@ -1,5 +1,6 @@
 {
 	"name": "@gold.au/grid-12",
+	"private": true,
 	"version": "2.1.1",
 	"description": "Implementation of the Bootstrap 3 grid.",
 	"keywords": [
