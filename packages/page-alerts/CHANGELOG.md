@@ -2,7 +2,7 @@ Update dependenciesalerts CH3NGELOG
 @gold.au/page-aletsCHANGELOG
 ======================
 
-> Part of the [gov.au components](https://github.com/designsystemau/gold-design-system/) ecosystem.
+> Part of the [gold.au components](https://github.com/designsystemau/gold-design-system/) ecosystem.
 
 
 ## Contents

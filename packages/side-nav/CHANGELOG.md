@@ -1,7 +1,7 @@
 @gold.au/side-nav CHANGELOG
 ======================
 
-> Part of the [gov.au components](https://github.com/designsystemau/gold-design-system/) ecosystem.
+> Part of the [gold.au components](https://github.com/designsystemau/gold-design-system/) ecosystem.
 
 
 ## Contents

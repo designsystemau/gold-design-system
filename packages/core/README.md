@@ -1,7 +1,7 @@
 @gold.au/core
 ============
 
-> The core module all [gov.au components modules](https://github.com/designsystemau/gold-design-system/) depend on.
+> The core module all [gold.au components modules](https://github.com/designsystemau/gold-design-system/) depend on.
 
 
 ## Contents
