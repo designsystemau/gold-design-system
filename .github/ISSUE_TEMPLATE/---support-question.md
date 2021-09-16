@@ -8,7 +8,6 @@ about: "If you need support using the design system (the community is here to he
 
 - [ ] I’ve read and agree to the [Code of Conduct](https://github.com/designsystemau/gold-design-system/blob/main/CODE_OF_CONDUCT.md).
 - [ ] I’ve searched for any related issues/questions on github
-- [ ]  I've searched the [community forums](https://community.digital.gov.au/c/designsystem) to check for related issues or support questions
 
 ## How can we help?
 

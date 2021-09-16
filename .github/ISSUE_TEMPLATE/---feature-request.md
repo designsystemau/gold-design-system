@@ -8,7 +8,6 @@ about: "Suggest an idea for the product"
 - [ ] I’ve read and understood the [Contributing guidelines](https://github.com/designsystemau/gold-design-system/blob/main/CONTRIBUTING.md) and have done my best effort to follow them.
 - [ ] I’ve read and agree to the [Code of Conduct](https://github.com/designsystemau/gold-design-system/blob/main/CODE_OF_CONDUCT.md).
 - [ ] I’ve searched for any related issues and avoided creating a duplicate issue.
-- [ ] I've searched the [community forums](https://community.digital.gov.au/c/designsystem) to check for related issues or feature requests
 
 ## Is this feature request relating to an existing component? Please describe.
 - Component name:
