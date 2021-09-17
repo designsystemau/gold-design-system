@@ -35,8 +35,8 @@
 		"pancake-module": {
 			"version": "1.0.0",
 			"plugins": [
-				"@gov.au/pancake-js",
-				"@gov.au/pancake-json"
+				"@gold.au/pancake-js",
+				"@gold.au/pancake-json"
 			],
 			"js": {
 				"path": "lib/js/module.js"
@@ -49,9 +49,9 @@
 	},
 	"main": "lib/js/module.js",
 	"dependencies": {
-		"@gov.au/pancake": "~1",
-		"@gov.au/pancake-js": "~1",
-		"@gov.au/pancake-json": "~1"
+		"@gold.au/pancake": "~1",
+		"@gold.au/pancake-js": "~1",
+		"@gold.au/pancake-json": "~1"
 	},
 	"peerDependencies": {},
 	"devDependencies": {

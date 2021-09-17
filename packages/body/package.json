@@ -36,8 +36,8 @@
 		"pancake-module": {
 			"version": "1.0.0",
 			"plugins": [
-				"@gov.au/pancake-sass",
-				"@gov.au/pancake-json"
+				"@gold.au/pancake-sass",
+				"@gold.au/pancake-json"
 			],
 			"sass": {
 				"path": "lib/sass/_module.scss",
@@ -46,9 +46,9 @@
 		}
 	},
 	"dependencies": {
-		"@gov.au/pancake": "~1",
-		"@gov.au/pancake-sass": "~2",
-		"@gov.au/pancake-json": "~1",
+		"@gold.au/pancake": "~1",
+		"@gold.au/pancake-sass": "~2",
+		"@gold.au/pancake-json": "~1",
 		"@gold.au/core": "^4.0.0"
 	},
 	"peerDependencies": {
