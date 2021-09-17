@@ -1,6 +1,6 @@
 {
 	"name": "@gold.au/buttons",
-	"version": "3.0.8",
+	"version": "3.0.9",
 	"description": "Buttons signal action. Use them to move the user through the service.",
 	"keywords": [
 		"auds",
@@ -8,7 +8,8 @@
 		"pancake-module",
 		"sass",
 		"scss",
-		"css","gold.au",
+		"css",
+		"gold.au",
 		"gov.au",
 		"Commonwealth of Australia",
 		"design guide",
@@ -53,10 +54,10 @@
 		"@gold.au/pancake-sass": "~2",
 		"@gold.au/pancake-react": "~1",
 		"@gold.au/pancake-json": "~1",
-		"@gold.au/core": "^4.0.0"
+		"@gold.au/core": "^4.0.1"
 	},
 	"peerDependencies": {
-		"@gold.au/core": "^4.0.0"
+		"@gold.au/core": "^4.0.1"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.3.4",
