@@ -6,20 +6,19 @@ Set up the right Node version:
 
     nvm use
 
+Configure the monorepo: 
+
+    npm run bootstrap 
+    
+Work on modules individually: 
+
+    cd packages/buttons
+    npm run watch 
+
 ## Publishing
 
-Publishing is automated on merge to `main`.   
+Publishing to npm is automated, but requires developers to add [Changesets](https://github.com/atlassian/changesets):   
 
-### Steps 
-
-Record changes made to packages that will form a changelog, using the [Changesets](https://github.com/atlassian/changesets) CLI: 
+Record changes made to packages that will form a changelog, using the  CLI: 
 
     npm run changeset
-
-Update package version numbers:
-
-    npm run pkgs:version
-
-Build assets and then publish to npm:
-
-    npm run pkgs:release
