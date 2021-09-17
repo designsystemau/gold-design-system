@@ -8,7 +8,8 @@
 		"pancake-module",
 		"sass",
 		"scss",
-		"css","gold.au",
+		"css",
+		"gold.au",
 		"gov.au",
 		"Commonwealth of Australia",
 		"design guide",
@@ -53,13 +54,13 @@
 	},
 	"main": "lib/js/react.es5.js",
 	"dependencies": {
-		"@gov.au/pancake": "~1",
-		"@gov.au/pancake-js": "~1",
-		"@gov.au/pancake-sass": "~2",
-		"@gov.au/pancake-react": "~1",
-		"@gov.au/pancake-json": "~1",
 		"@gold.au/animate": "^1.0.0",
-		"@gold.au/core": "^4.0.0"
+		"@gold.au/core": "^4.0.0",
+		"@gov.au/pancake": "^1.4.1",
+		"@gov.au/pancake-js": "~1",
+		"@gov.au/pancake-json": "~1",
+		"@gov.au/pancake-react": "~1",
+		"@gov.au/pancake-sass": "~2"
 	},
 	"peerDependencies": {
 		"@gold.au/animate": "^1.0.0",
@@ -82,8 +83,8 @@
 		"lib/*"
 	],
 	"engines": {
-		"node": ">=0.12.0",
-		"npm": "^3.0.0"
+		"node": ">=10.0.0",
+		"npm": ">3.0.0"
 	},
 	"repository": {
 		"type": "git",
