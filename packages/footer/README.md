@@ -1,4 +1,4 @@
-@gov.au/footer
+@gold.au/footer
 ============
 
 > Footers help users who reach the bottom of a page without finding what they want.
@@ -21,11 +21,11 @@
 
 
 ```shell
-yarn add @gov.au/footer
+yarn add @gold.au/footer
 ```
 
 ```shell
-npm install @gov.au/footer
+npm install @gold.au/footer
 ```
 
 
@@ -79,7 +79,7 @@ All props:
 ```
 _(💡 additional props are spread onto the component)_
 
-For more details have a look at the [usage example](https://github.com/govau/design-system-components/tree/master/packages/footer/tests/react/index.js).
+For more details have a look at the [usage example](https://github.com/designsystemau/gold-design-system/tree/main/packages/footer/tests/react/index.js).
 
 
 **[⬆ back to top](#contents)**
@@ -91,8 +91,8 @@ For more details have a look at the [usage example](https://github.com/govau/des
 ## Dependency graph
 
 ```shell
-footer
-└─ core
+/footer
+└─ /core
 ```
 
 

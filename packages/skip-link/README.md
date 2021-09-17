@@ -1,4 +1,4 @@
-@gov.au/skip-link
+@gold.au/skip-link
 ============
 
 > Provide skip links to navigation and content.
@@ -21,11 +21,11 @@
 
 
 ```shell
-yarn add @gov.au/skip-link
+yarn add @gold.au/skip-link
 ```
 
 ```shell
-npm install @gov.au/skip-link
+npm install @gold.au/skip-link
 ```
 
 
@@ -82,7 +82,7 @@ All props:
 ```
 _(💡 additional props are spread onto the component)_
 
-For more details have a look at the [usage example](https://github.com/govau/design-system-components/tree/master/packages/skip-link/tests/react/index.js).
+For more details have a look at the [usage example](https://github.com/designsystemau/gold-design-system/tree/main/packages/skip-link/tests/react/index.js).
 
 
 **[⬆ back to top](#contents)**
@@ -94,24 +94,12 @@ For more details have a look at the [usage example](https://github.com/govau/des
 ## Dependency graph
 
 ```shell
-skip-link
-└─ core
+/skip-link
+└─ /core
 ```
 
 
 **[⬆ back to top](#contents)**
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-## Tests
-
-The visual test: https://auds.service.gov.au/packages/skip-link/tests/site/
-
-
-**[⬆ back to top](#contents)**
-
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 

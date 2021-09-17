@@ -43,7 +43,7 @@ const CreateDir = ( dir ) => {
 			if((process.platform === "win32") && (currentPath.charAt(0) == "/"))
 			{
 				currentPath = currentPath.substring(1);
-			}	
+			}
 
 			if( !Fs.existsSync( currentPath ) ){
 				Fs.mkdirSync( currentPath );
@@ -234,7 +234,7 @@ const HELPER = (() => { // constructor factory
 		DEPENDENCIES: PKG.peerDependencies,
 		TEMPLATES: Path.normalize(`${ __dirname }/../.templates`),
 		URL: `https://auds.service.gov.au`,
-		GITHUB: `https://github.com/govau/design-system-components/`,
+		GITHUB: `https://github.com/designsystemau/gold-design-system/`,
 
 
 //--------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -729,7 +729,7 @@ HELPER.generate = (() => {
 						`<img class="badge badge--version" src="https://img.shields.io/npm/v/@gov.au/${ module }.svg?label=NPM%20&colorA=ffffff&colorB=00698f&style=flat-square" alt="${ module } version">` +
 						`	<br>` +
 						`	<a class="link" href="packages/${ module }/tests/site/">site</a> ${ jquery } ${ react }` +
-						`	<a class="link" href="https://github.com/govau/design-system-components/blob/master/packages/${ module }/README.md">readme</a>` +
+						`	<a class="link" href="https://github.com/designsystemau/gold-design-system/blob/main/packages/${ module }/README.md">readme</a>` +
 						`</li>\n`;
 				}
 			}

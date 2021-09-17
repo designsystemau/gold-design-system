@@ -1,4 +1,4 @@
-@gov.au/header
+@gold.au/header
 ============
 
 > Headers provide a consistent start to pages.
@@ -21,11 +21,11 @@
 
 
 ```shell
-yarn add @gov.au/header
+yarn add @gold.au/header
 ```
 
 ```shell
-npm install @gov.au/header
+npm install @gold.au/header
 ```
 
 
@@ -86,7 +86,7 @@ All props:
 ```
 _(💡 additional props are spread onto the component)_
 
-For more details have a look at the [usage example](https://github.com/govau/design-system-components/tree/master/packages/header/tests/react/index.js).
+For more details have a look at the [usage example](https://github.com/designsystemau/gold-design-system/tree/main/packages/header/tests/react/index.js).
 
 
 **[⬆ back to top](#contents)**
@@ -98,8 +98,8 @@ For more details have a look at the [usage example](https://github.com/govau/des
 ## Dependency graph
 
 ```shell
-header
-└─ core
+/header
+└─ /core
 ```
 
 

@@ -1,4 +1,4 @@
-@gov.au/side-nav
+@gold.au/side-nav
 ============
 
 > A vertical list of links for site navigation typically placed next to the body content.
@@ -21,11 +21,11 @@
 
 
 ```shell
-yarn add @gov.au/side-nav
+yarn add @gold.au/side-nav
 ```
 
 ```shell
-npm install @gov.au/side-nav
+npm install @gold.au/side-nav
 ```
 
 
@@ -99,7 +99,7 @@ All props:
 ```
 _(💡 additional props are spread onto the component)_
 
-For more details have a look at the [usage example](https://github.com/govau/design-system-components/tree/master/packages/accordion/tests/react/index.js).
+For more details have a look at the [usage example](https://github.com/designsystemau/gold-design-system/tree/main/packages/accordion/tests/react/index.js).
 
 
 **[⬆ back to top](#contents)**
@@ -111,16 +111,16 @@ For more details have a look at the [usage example](https://github.com/govau/des
 ## Dependency graph
 
 ```shell
-side-nav
-├─ core
-├─ animate
-├─ accordion
-│  ├─ animate
-│  └─ core
-└─ link-list
-   ├─ core
-   └─ body
-      └─ core
+/side-nav
+├─ /core
+├─ /animate
+├─ /accordion
+│  ├─ /animate
+│  └─ /core
+└─ /link-list
+   ├─ /core
+   └─ /body
+      └─ /core
 ```
 
 

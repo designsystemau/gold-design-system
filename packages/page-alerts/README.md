@@ -1,4 +1,4 @@
-@gov.au/page-alerts
+@gold.au/page-alerts
 ============
 
 > Use page alerts to notify users of important information and state changes to the page.
@@ -20,11 +20,11 @@
 
 
 ```shell
-yarn add @gov.au/page-alerts
+yarn add @gold.au/page-alerts
 ```
 
 ```shell
-npm install @gov.au/page-alerts
+npm install @gold.au/page-alerts
 ```
 
 
@@ -71,7 +71,7 @@ All props:
 ```
 _(💡 additional props are spread onto the component)_
 
-For more details have a look at the [usage example](https://github.com/govau/design-system-components/tree/master/packages/page-alerts/tests/react/index.js).
+For more details have a look at the [usage example](https://github.com/designsystemau/gold-design-system/tree/main/packages/page-alerts/tests/react/index.js).
 
 
 **[⬆ back to top](#contents)**
@@ -83,10 +83,10 @@ For more details have a look at the [usage example](https://github.com/govau/des
 ## Dependency graph
 
 ```shell
-page-alerts
-├─ core
-└─ body
-   └─ core
+/page-alerts
+├─ /core
+└─ /body
+   └─ /core
 ```
 
 

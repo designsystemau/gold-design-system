@@ -1,4 +1,4 @@
-@gov.au/keyword-list
+@gold.au/keyword-list
 ============
 
 > A list style for emphasising parts of a list item, useful for repeating phrases across that list’s items.
@@ -21,11 +21,11 @@
 
 
 ```shell
-yarn add @gov.au/keyword-list
+yarn add @gold.au/keyword-list
 ```
 
 ```shell
-npm install @gov.au/keyword-list
+npm install @gold.au/keyword-list
 ```
 
 
@@ -95,7 +95,7 @@ All props:
 ```
 _(💡 additional props are spread onto the component)_
 
-For more details have a look at the [usage example](https://github.com/govau/design-system-components/tree/master/packages/keyword-list/tests/react/index.js).
+For more details have a look at the [usage example](https://github.com/designsystemau/gold-design-system/tree/main/packages/keyword-list/tests/react/index.js).
 
 
 **[⬆ back to top](#contents)**
@@ -107,12 +107,12 @@ For more details have a look at the [usage example](https://github.com/govau/des
 ## Dependency graph
 
 ```shell
-keyword-list
-├─ core
-└─ link-list
-   ├─ core
-   └─ body
-      └─ core
+/keyword-list
+├─ /core
+└─ /link-list
+   ├─ /core
+   └─ /body
+      └─ /core
 ```
 
 

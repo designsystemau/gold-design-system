@@ -1,4 +1,4 @@
-@gov.au/control-input
+@gold.au/control-input
 ============
 
 > Control inputs include radio buttons and checkboxes. They allow users to select one or more options.
@@ -21,11 +21,11 @@
 
 
 ```shell
-yarn add @gov.au/control-input
+yarn add @gold.au/control-input
 ```
 
 ```shell
-npm install @gov.au/control-input
+npm install @gold.au/control-input
 ```
 
 
@@ -82,7 +82,7 @@ All props:
 ```
 _(💡 additional props are spread onto the component)_
 
-For more details have a look at the [usage example](https://github.com/govau/design-system-components/tree/master/packages/control-input/tests/react/index.js).
+For more details have a look at the [usage example](https://github.com/designsystemau/gold-design-system/tree/main/packages/control-input/tests/react/index.js).
 
 
 **[⬆ back to top](#contents)**
@@ -94,8 +94,8 @@ For more details have a look at the [usage example](https://github.com/govau/des
 ## Dependency graph
 
 ```shell
-control-input
-└─ core
+/control-input
+└─ /core
 ```
 
 

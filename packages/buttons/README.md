@@ -1,4 +1,4 @@
-@gov.au/buttons
+@gold.au/buttons
 ============
 
 > Buttons signal action. Use them to move the user through the service.
@@ -21,11 +21,11 @@
 
 
 ```shell
-yarn add @gov.au/buttons
+yarn add @gold.au/buttons
 ```
 
 ```shell
-npm install @gov.au/buttons
+npm install @gold.au/buttons
 ```
 
 
@@ -72,7 +72,7 @@ All props:
 ```
 _(💡 additional props are spread onto the component)_
 
-For more details have a look at the [usage example](https://github.com/govau/design-system-components/tree/master/packages/buttons/tests/react/index.js).
+For more details have a look at the [usage example](https://github.com/designsystemau/gold-design-system/tree/main/packages/buttons/tests/react/index.js).
 
 
 **[⬆ back to top](#contents)**
@@ -84,8 +84,8 @@ For more details have a look at the [usage example](https://github.com/govau/des
 ## Dependency graph
 
 ```shell
-buttons
-└─ core
+/buttons
+└─ /core
 ```
 
 
@@ -121,8 +121,8 @@ The visual test: https://auds.service.gov.au/packages/buttons/tests/site/
 * v2.0.2 - Change homepage link
 * v2.0.1 - Fix dependencies
 * v2.0.0 - Change to focus colour and border/muted color mix
-* v1.0.2 - Fixed issue with secondary button hover IE8 [312](https://github.com/govau/design-system-components/issues/312)
-* v1.0.1 - Fixed specificity issue when combined with body [197](https://github.com/govau/design-system-components/issues/197)
+* v1.0.2 - Fixed issue with secondary button hover IE8 [312](https://github.com/designsystemau/gold-design-system/issues/312)
+* v1.0.1 - Fixed specificity issue when combined with body [197](https://github.com/designsystemau/gold-design-system/issues/197)
 * v1.0.0 - Moved to AU namespace, added new color themes and spacing
 * v0.5.0 - Added pancake-react plugin, ES5 main file
 * v0.4.0 - Added react component

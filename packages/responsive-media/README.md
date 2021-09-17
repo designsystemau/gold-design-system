@@ -1,4 +1,4 @@
-@gov.au/responsive-media
+@gold.au/responsive-media
 ============
 
 > Caters for video/slideshow dimensions and aspect ratios across various viewports/widths.
@@ -20,11 +20,11 @@
 
 
 ```shell
-yarn add @gov.au/responsive-media
+yarn add @gold.au/responsive-media
 ```
 
 ```shell
-npm install @gov.au/responsive-media
+npm install @gold.au/responsive-media
 ```
 
 
@@ -37,20 +37,9 @@ npm install @gov.au/responsive-media
 ## Dependency graph
 
 ```shell
-responsive-media
-└─ core
+/responsive-media
+└─ /core
 ```
-
-
-**[⬆ back to top](#contents)**
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-## Tests
-
-The visual test: https://auds.service.gov.au/packages/responsive-media/tests/site/
 
 
 **[⬆ back to top](#contents)**

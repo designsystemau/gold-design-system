@@ -1,5 +1,5 @@
 {
-	"name": "@gov.au/control-input",
+	"name": "@gold.au/control-input",
 	"version": "3.0.2",
 	"description": "Control inputs include radio buttons and checkboxes. They allow users to select one or more options.",
 	"keywords": [
@@ -8,7 +8,7 @@
 		"pancake-module",
 		"sass",
 		"scss",
-		"css",
+		"css","gold.au",
 		"gov.au",
 		"Commonwealth of Australia",
 		"design guide",
@@ -21,7 +21,8 @@
 		"test:helper": "node ../../scripts/helper.js test",
 		"test": "npm-run-all --parallel test:*",
 
-		"prepublish": "npm run test:helper && npm run build:pre",
+		"todo:prepublish": "npm run test:helper && npm run build:pre",
+		"prepublish": "npm run build:pre",
 
 		"build:pre": "node ../../scripts/helper.js precompile publish",
 		"build:js": "npm run build:pre && node ../../scripts/helper.js compile",
@@ -58,11 +59,10 @@
 		"@gov.au/pancake-sass": "~2",
 		"@gov.au/pancake-react": "~1",
 		"@gov.au/pancake-json": "~1",
-
-		"@gov.au/core": "^4.0.0"
+		"@gold.au/core": "^4.0.0"
 	},
 	"peerDependencies": {
-		"@gov.au/core": "^4.0.0"
+		"@gold.au/core": "^4.0.0"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.3.4",
@@ -86,17 +86,16 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/govau/design-system-components.git"
+		"url": "https://github.com/designsystemau/gold-design-system.git"
 	},
-	"homepage": "https://designsystem.gov.au/components/control-input",
+	"homepage": "https://gold.designsystemau.org/components/control-input",
 	"bugs": {
-		"url": "https://github.com/govau/design-system-components/issues",
-		"email": "designsystem@digital.gov.au"
+		"url": "https://github.com/designsystemau/gold-design-system/issues"
 	},
 	"author": {
-		"name": "Commonwealth of Australia, DTA",
-		"email": "designsystem@digital.gov.au",
-		"url": "https://www.dta.gov.au/"
+		"name": "Design System AU",
+		"email": "maintainers@designsystemau.org",
+		"url": "https://designsystemau.org/"
 	},
 	"contributors": [
 		{

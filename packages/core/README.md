@@ -232,7 +232,7 @@ Example:
 ## Dependency graph
 
 ```shell
-core
+/core
 ```
 
 

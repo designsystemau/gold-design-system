@@ -1,4 +1,4 @@
-@gov.au/form
+@gold.au/form
 ============
 
 > The form component contains layout, labelling and inline validations for form fields
@@ -20,11 +20,11 @@
 
 
 ```shell
-yarn add @gov.au/form
+yarn add @gold.au/form
 ```
 
 ```shell
-npm install @gov.au/form
+npm install @gold.au/form
 ```
 
 
@@ -37,32 +37,18 @@ npm install @gov.au/form
 ## Dependency graph
 
 ```shell
-form
-└─ core
+/form
+└─ /core
 ```
 
 
 **[⬆ back to top](#contents)**
 
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-## Tests
-
-The visual test: https://auds.service.gov.au/packages/form/tests/site/
-
-
-**[⬆ back to top](#contents)**
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
 ## Release History
 
 * v0.1.6 - Update core package dependency to use the latest version
-* v0.1.5 - Update version for the dependency: @gov.au/core
+* v0.1.5 - Update version for the dependency: @gold.au/core
 * v0.1.4 - Add margin between text area and form labels, hint text and error messages.
 * v0.1.3 - Remove --save-dev flag from readme instructions.
 * v0.1.2 - Remove hint text colours as they are now in core.
@@ -107,7 +93,7 @@ Licensed under [MIT](https://raw.githubusercontent.com/govau/design-system-compo
 Usage:
 
 ```jsx
-import { AUlabel, AUhintText, AUerrorText, AUformGroup, AUfieldset, AUlegend } from '@gov.au/form';
+import { AUlabel, AUhintText, AUerrorText, AUformGroup, AUfieldset, AUlegend } from '@gold.au/form';
 
 <AUlabel text="Email" />
 

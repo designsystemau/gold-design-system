@@ -1,4 +1,4 @@
-@gov.au/direction-links
+@gold.au/direction-links
 ============
 
 > Use direction links to link up and down within the DOM or back to a parent page.
@@ -21,11 +21,11 @@
 
 
 ```shell
-yarn add @gov.au/direction-links
+yarn add @gold.au/direction-links
 ```
 
 ```shell
-npm install @gov.au/direction-links
+npm install @gold.au/direction-links
 ```
 
 
@@ -71,7 +71,7 @@ All props:
 ```
 _(💡 additional props are spread onto the component)_
 
-For more details have a look at the [usage example](https://github.com/govau/design-system-components/tree/master/packages/direction-links/tests/react/index.js).
+For more details have a look at the [usage example](https://github.com/designsystemau/gold-design-system/tree/main/packages/direction-links/tests/react/index.js).
 
 
 **[⬆ back to top](#contents)**
@@ -83,20 +83,9 @@ For more details have a look at the [usage example](https://github.com/govau/des
 ## Dependency graph
 
 ```shell
-direction-links
-└─ core
+/direction-links
+└─ /core
 ```
-
-
-**[⬆ back to top](#contents)**
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-## Tests
-
-The visual test: https://auds.service.gov.au/packages/direction-links/tests/site/
 
 
 **[⬆ back to top](#contents)**

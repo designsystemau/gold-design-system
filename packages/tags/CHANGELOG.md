@@ -1,7 +1,7 @@
-@gov.au/tags CHANGELOG
+@gold.au/tags CHANGELOG
 ======================
 
-> Part of the [gov.au components](https://github.com/govau/design-system-components/) ecosystem.
+> Part of the [gold.au components](https://github.com/designsystemau/gold-design-system/) ecosystem.
 
 
 ## Contents
