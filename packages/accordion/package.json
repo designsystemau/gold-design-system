@@ -1,6 +1,6 @@
 {
 	"name": "@gold.au/accordion",
-	"version": "7.0.9",
+	"version": "7.0.10",
 	"description": "Allow the user to toggle the visibility of an element",
 	"keywords": [
 		"auds",
@@ -20,7 +20,8 @@
 		"test:a11y": "node ../../scripts/a11y.js",
 		"test:helper": "node ../../scripts/helper.js test",
 		"test": "npm-run-all --parallel test:*",
-		"prepublish": "npm run test:helper && npm run build:pre",
+		"prepublish": "npm run build:pre",
+		"todo:prepublish": "npm run test:helper && npm run build:pre",
 		"build:pre": "node ../../scripts/helper.js precompile publish",
 		"build:js": "npm run build:pre && node ../../scripts/helper.js compile",
 		"build:react": "cd tests/react/ && webpack",
@@ -54,7 +55,7 @@
 	},
 	"main": "lib/js/react.es5.js",
 	"dependencies": {
-		"@gold.au/animate": "^1.0.0",
+		"@gold.au/animate": "^1.0.15",
 		"@gold.au/core": "^4.0.0",
 		"@gold.au/pancake": "^1.4.1",
 		"@gold.au/pancake-js": "~1",
@@ -63,7 +64,7 @@
 		"@gold.au/pancake-sass": "~2"
 	},
 	"peerDependencies": {
-		"@gold.au/animate": "^1.0.0",
+		"@gold.au/animate": "^1.0.15",
 		"@gold.au/core": "^4.0.0"
 	},
 	"devDependencies": {
@@ -95,7 +96,7 @@
 		"url": "https://github.com/designsystemau/gold-design-system/issues"
 	},
 	"author": {
-		"name": "Design System AU",
+		"name": "Design System Au",
 		"email": "maintainers@designsystemau.org",
 		"url": "https://designsystemau.org/"
 	},

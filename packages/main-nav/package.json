@@ -1,6 +1,6 @@
 {
 	"name": "@gold.au/main-nav",
-	"version": "1.0.9",
+	"version": "1.0.10",
 	"description": "Horizontal list of links to key areas on the website. Usually located in the header.",
 	"keywords": [
 		"auds",
@@ -8,7 +8,8 @@
 		"pancake-module",
 		"sass",
 		"scss",
-		"css","gold.au",
+		"css",
+		"gold.au",
 		"gov.au",
 		"Commonwealth of Australia",
 		"design guide",
@@ -16,20 +17,16 @@
 	],
 	"scripts": {
 		"postinstall": "pancake",
-
 		"test:a11y": "node ../../scripts/a11y.js",
 		"test:helper": "node ../../scripts/helper.js test",
 		"test": "npm-run-all --parallel test:*",
-
-		"prepublish": "npm run test:helper && npm run build:pre",
-
+		"prepublish": "npm run build:pre",
+		"todo:prepublish": "npm run test:helper && npm run build:pre",
 		"build:pre": "node ../../scripts/helper.js precompile publish",
 		"build:js": "node ../../scripts/helper.js compile",
 		"build:react": "cd tests/react/ && webpack",
 		"build": "npm run build:pre && npm run build:js && npm run build:react",
-
 		"serve": "browser-sync tests --files \"tests/**/*.html, tests/**/*.css, tests/**/*.js\"",
-
 		"watch:js": "onchange \"src/js/*.js\" -- npm run build:js",
 		"watch:jsx": "onchange \"src/js/react.js\" \"tests/react/index.js\" -- npm run build",
 		"watch:sass": "onchange \"src/sass/*.scss\" \"tests/site/test.scss\" -- npm run build",
@@ -63,15 +60,14 @@
 		"@gold.au/pancake-sass": "~2",
 		"@gold.au/pancake-react": "~1",
 		"@gold.au/pancake-json": "~1",
-
 		"@gold.au/core": "^4.0.0",
-		"@gold.au/animate": "^1.0.0",
-		"@gold.au/link-list": "^3.0.0"
+		"@gold.au/animate": "^1.0.15",
+		"@gold.au/link-list": "^3.0.10"
 	},
 	"peerDependencies": {
 		"@gold.au/core": "^4.0.0",
-		"@gold.au/animate": "^1.0.0",
-		"@gold.au/link-list": "^3.0.0"
+		"@gold.au/animate": "^1.0.15",
+		"@gold.au/link-list": "^3.0.10"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.3.4",
