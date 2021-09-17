@@ -1,5 +1,13 @@
 @gold.au/footer CHANGELOG
 
+## 3.0.8
+
+### Patch Changes
+
+- 634fe333: Fixes React components now include CSS
+- Updated dependencies [634fe333]
+  - @gold.au/core@4.0.2
+
 ## 3.0.7
 
 ### Patch Changes

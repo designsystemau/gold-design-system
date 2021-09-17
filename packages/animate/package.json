@@ -1,6 +1,6 @@
 {
 	"name": "@gold.au/animate",
-	"version": "1.0.15",
+	"version": "1.0.16",
 	"description": "A JavaScript function to animate CSS properties of page elements.",
 	"keywords": [
 		"auds",
@@ -22,7 +22,6 @@
 		"test:a11y": "node ../../scripts/a11y.js",
 		"test:helper": "node ../../scripts/helper.js test",
 		"test": "npm-run-all --parallel test:*",
-
 		"prepublish": "npm run test:helper && npm run build:pre",
 		"build:pre": "node ../../scripts/helper.js precompile publish",
 		"build:js": "npm run build:pre && node ../../scripts/helper.js compile",

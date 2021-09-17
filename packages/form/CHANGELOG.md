@@ -1,5 +1,13 @@
 @gold.au/form CHANGELOG
 
+## 0.1.8
+
+### Patch Changes
+
+- 634fe333: Fixes React components now include CSS
+- Updated dependencies [634fe333]
+  - @gold.au/core@4.0.2
+
 ## 0.1.7
 
 ### Patch Changes

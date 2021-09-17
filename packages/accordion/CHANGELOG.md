@@ -1,5 +1,14 @@
 @gold.au/accordion CHANGELOG
 
+## 7.0.11
+
+### Patch Changes
+
+- 634fe333: Fixes React components now include CSS
+- Updated dependencies [634fe333]
+  - @gold.au/animate@1.0.16
+  - @gold.au/core@4.0.2
+
 ## 7.0.10
 
 ### Patch Changes

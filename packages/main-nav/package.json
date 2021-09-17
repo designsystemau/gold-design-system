@@ -1,6 +1,6 @@
 {
 	"name": "@gold.au/main-nav",
-	"version": "1.0.10",
+	"version": "1.0.11",
 	"description": "Horizontal list of links to key areas on the website. Usually located in the header.",
 	"keywords": [
 		"auds",
@@ -20,7 +20,6 @@
 		"test:a11y": "node ../../scripts/a11y.js",
 		"test:helper": "node ../../scripts/helper.js test",
 		"test": "npm-run-all --parallel test:*",
-
 		"prepublish": "npm run test:helper && npm run build:pre",
 		"build:pre": "node ../../scripts/helper.js precompile publish",
 		"build:js": "node ../../scripts/helper.js compile",
@@ -60,14 +59,14 @@
 		"@gold.au/pancake-sass": "~2",
 		"@gold.au/pancake-react": "~1",
 		"@gold.au/pancake-json": "~1",
-		"@gold.au/core": "^4.0.0",
-		"@gold.au/animate": "^1.0.15",
-		"@gold.au/link-list": "^3.0.10"
+		"@gold.au/core": "^4.0.2",
+		"@gold.au/animate": "^1.0.16",
+		"@gold.au/link-list": "^3.0.11"
 	},
 	"peerDependencies": {
-		"@gold.au/core": "^4.0.0",
-		"@gold.au/animate": "^1.0.15",
-		"@gold.au/link-list": "^3.0.10"
+		"@gold.au/core": "^4.0.2",
+		"@gold.au/animate": "^1.0.16",
+		"@gold.au/link-list": "^3.0.11"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.3.4",

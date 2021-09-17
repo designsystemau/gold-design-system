@@ -1,5 +1,11 @@
 @gold.au/animate CHANGELOG
 
+## 1.0.16
+
+### Patch Changes
+
+- 634fe333: Fixes React components now include CSS
+
 ## 1.0.15
 
 ### Patch Changes

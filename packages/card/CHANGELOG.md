@@ -1,5 +1,13 @@
 @gold.au/card CHANGELOG
 
+## 0.3.5
+
+### Patch Changes
+
+- 634fe333: Fixes React components now include CSS
+- Updated dependencies [634fe333]
+  - @gold.au/core@4.0.2
+
 ## 0.3.4
 
 ### Patch Changes

@@ -1,6 +1,6 @@
 {
 	"name": "@gold.au/side-nav",
-	"version": "5.0.10",
+	"version": "5.0.11",
 	"description": "A vertical list of links for site navigation typically placed next to the body content.",
 	"keywords": [
 		"auds",
@@ -20,7 +20,6 @@
 		"test:a11y": "node ../../scripts/a11y.js",
 		"test:helper": "node ../../scripts/helper.js test",
 		"test": "npm-run-all --parallel test:*",
-
 		"prepublish": "npm run test:helper && npm run build:pre",
 		"build:pre": "node ../../scripts/helper.js precompile publish",
 		"build:js": "node ../../scripts/helper.js compile",
@@ -60,16 +59,16 @@
 		"@gold.au/pancake-sass": "~2",
 		"@gold.au/pancake-react": "~1",
 		"@gold.au/pancake-json": "~1",
-		"@gold.au/core": "^4.0.0",
-		"@gold.au/animate": "^1.0.15",
-		"@gold.au/accordion": "^7.0.10",
-		"@gold.au/link-list": "^3.0.10"
+		"@gold.au/core": "^4.0.2",
+		"@gold.au/animate": "^1.0.16",
+		"@gold.au/accordion": "^7.0.11",
+		"@gold.au/link-list": "^3.0.11"
 	},
 	"peerDependencies": {
-		"@gold.au/core": "^4.0.0",
-		"@gold.au/animate": "^1.0.15",
-		"@gold.au/accordion": "^7.0.10",
-		"@gold.au/link-list": "^3.0.10"
+		"@gold.au/core": "^4.0.2",
+		"@gold.au/animate": "^1.0.16",
+		"@gold.au/accordion": "^7.0.11",
+		"@gold.au/link-list": "^3.0.11"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.3.4",

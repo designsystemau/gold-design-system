@@ -1,5 +1,14 @@
 @gov.au/contents CHANGELOG
 
+## 3.0.9
+
+### Patch Changes
+
+- 634fe333: Fixes React components now include CSS
+- Updated dependencies [634fe333]
+  - @gold.au/core@4.0.2
+  - @gold.au/link-list@3.0.11
+
 ## 3.0.8
 
 ### Patch Changes

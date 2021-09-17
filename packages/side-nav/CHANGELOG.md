@@ -1,5 +1,16 @@
 @gold.au/side-nav CHANGELOG
 
+## 5.0.11
+
+### Patch Changes
+
+- 634fe333: Fixes React components now include CSS
+- Updated dependencies [634fe333]
+  - @gold.au/accordion@7.0.11
+  - @gold.au/animate@1.0.16
+  - @gold.au/core@4.0.2
+  - @gold.au/link-list@3.0.11
+
 ## 5.0.10
 
 ### Patch Changes

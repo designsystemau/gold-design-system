@@ -1,5 +1,11 @@
 @gold.au/core CHANGELOG
 
+## 4.0.2
+
+### Patch Changes
+
+- 634fe333: Fixes React components now include CSS
+
 ## 4.0.1
 
 ### Patch Changes

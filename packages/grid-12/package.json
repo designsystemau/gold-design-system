@@ -1,6 +1,6 @@
 {
 	"name": "@gold.au/grid-12",
-	"version": "2.1.2",
+	"version": "2.1.3",
 	"description": "Implementation of the Bootstrap 3 grid.",
 	"keywords": [
 		"auds",
@@ -23,7 +23,6 @@
 		"test:a11y": "node ../../scripts/a11y.js",
 		"test:helper": "node ../../scripts/helper.js test",
 		"test": "npm-run-all --parallel test:*",
-
 		"prepublish": "npm run test:helper && npm run build:pre",
 		"build:pre": "node ../../scripts/helper.js precompile publish",
 		"build:js": "npm run build:pre && node ../../scripts/helper.js compile",
@@ -51,10 +50,10 @@
 		"@gold.au/pancake": "~1",
 		"@gold.au/pancake-sass": "~2",
 		"@gold.au/pancake-json": "~1",
-		"@gold.au/core": "^4.0.0"
+		"@gold.au/core": "^4.0.2"
 	},
 	"peerDependencies": {
-		"@gold.au/core": "^4.0.0"
+		"@gold.au/core": "^4.0.2"
 	},
 	"devDependencies": {
 		"browser-sync": "^2.26.7",

@@ -1,5 +1,15 @@
 @gold.au/searchbox CHANGELOG
 
+## 0.2.5
+
+### Patch Changes
+
+- 634fe333: Fixes React components now include CSS
+- Updated dependencies [634fe333]
+  - @gold.au/buttons@3.0.10
+  - @gold.au/core@4.0.2
+  - @gold.au/text-inputs@2.1.5
+
 ## 0.2.4
 
 ### Patch Changes
