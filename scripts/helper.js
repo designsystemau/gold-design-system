@@ -900,7 +900,8 @@ HELPER.test = (() => {
 
 			HELPER.test.dependencies( allModules );
 			HELPER.test.packagejson( allModules );
-			HELPER.test.changelog( allModules );
+			// this is deprecated because Changesets is now managing Changelogs
+			// HELPER.test.changelog( allModules );
 		},
 
 		/**
@@ -982,19 +983,19 @@ HELPER.test = (() => {
 					}
 
 					// testing pancake plugins
-					if( !packagesPKG.pancake['pancake-module'].plugins.includes('@gov.au/pancake-json') ) {
+					if( !packagesPKG.pancake['pancake-module'].plugins.includes('@gold.au/pancake-json') ) {
 						error += `The module ${ module } is missing the "pancake-json" plugin inside the pancake object.\n`;
 					}
 
-					if( hasSass && !packagesPKG.pancake['pancake-module'].plugins.includes('@gov.au/pancake-sass') ) {
+					if( hasSass && !packagesPKG.pancake['pancake-module'].plugins.includes('@gold.au/pancake-sass') ) {
 						error += `The module ${ module } is missing the "pancake-sass" plugin inside the pancake object.\n`;
 					}
 
-					if( hasJS && !packagesPKG.pancake['pancake-module'].plugins.includes('@gov.au/pancake-js') ) {
+					if( hasJS && !packagesPKG.pancake['pancake-module'].plugins.includes('@gold.au/pancake-js') ) {
 						error += `The module ${ module } is missing the "pancake-js" plugin inside the pancake object.\n`;
 					}
 
-					if( hasReact && !packagesPKG.pancake['pancake-module'].plugins.includes('@gov.au/pancake-react') ) {
+					if( hasReact && !packagesPKG.pancake['pancake-module'].plugins.includes('@gold.au/pancake-react') ) {
 						error += `The module ${ module } is missing the "pancake-js" plugin inside the pancake object.\n`;
 					}
 
@@ -1017,39 +1018,39 @@ HELPER.test = (() => {
 					}
 
 					// testing all pancake plugins are also a dependency
-					if( packagesPKG.dependencies['@gov.au/pancake'] === undefined ) {
+					if( packagesPKG.dependencies['@gold.au/pancake'] === undefined ) {
 						error += `The module ${ module } is missing "pancake" as a dependency.\n`;
 					}
 					else {
-						delete packagesPKG.dependencies['@gov.au/pancake'];
+						delete packagesPKG.dependencies['@gold.au/pancake'];
 					}
 
-					if( packagesPKG.dependencies['@gov.au/pancake-json'] === undefined ) {
+					if( packagesPKG.dependencies['@gold.au/pancake-json'] === undefined ) {
 						error += `The module ${ module } is missing "pancake-json" as a dependency.\n`;
 					}
 					else {
-						delete packagesPKG.dependencies['@gov.au/pancake-json'];
+						delete packagesPKG.dependencies['@gold.au/pancake-json'];
 					}
 
-					if( hasSass && packagesPKG.dependencies['@gov.au/pancake-sass'] === undefined ) {
+					if( hasSass && packagesPKG.dependencies['@gold.au/pancake-sass'] === undefined ) {
 						error += `The module ${ module } is missing "pancake-sass" as a dependency.\n`;
 					}
 					else {
-						delete packagesPKG.dependencies['@gov.au/pancake-sass'];
+						delete packagesPKG.dependencies['@gold.au/pancake-sass'];
 					}
 
-					if( hasJS && packagesPKG.dependencies['@gov.au/pancake-js'] === undefined ) {
+					if( hasJS && packagesPKG.dependencies['@gold.au/pancake-js'] === undefined ) {
 						error += `The module ${ module } is missing "pancake-js" as a dependency.\n`;
 					}
 					else {
-						delete packagesPKG.dependencies['@gov.au/pancake-js'];
+						delete packagesPKG.dependencies['@gold.au/pancake-js'];
 					}
 
-					if( hasReact && packagesPKG.dependencies['@gov.au/pancake-react'] === undefined ) {
+					if( hasReact && packagesPKG.dependencies['@gold.au/pancake-react'] === undefined ) {
 						error += `The module ${ module } is missing "pancake-react" as a dependency.\n`;
 					}
 					else {
-						delete packagesPKG.dependencies['@gov.au/pancake-react'];
+						delete packagesPKG.dependencies['@gold.au/pancake-react'];
 					}
 
 					// testing all remaining dependencies are also in peerdependencies

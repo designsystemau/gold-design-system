@@ -94,7 +94,7 @@ For more details have a look at the [usage example](https://github.com/designsys
 
 ## Tests
 
-The visual test: https://auds.service.gov.au/packages/cta-link/tests/site/
+The visual test: https://auds.service.gold.au/packages/cta-link/tests/site/
 
 
 **[⬆ back to top](#contents)**

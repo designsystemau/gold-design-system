@@ -1,8 +1,16 @@
-# Publishing npm
+# Design System developing 
 
-Publishing is not automated (yet) and only authorised users can push to npm.  
+## Set up 
 
-## Steps 
+Set up the right Node version: 
+
+    nvm use
+
+## Publishing
+
+Publishing is automated on merge to `main`.   
+
+### Steps 
 
 Record changes made to packages that will form a changelog, using the [Changesets](https://github.com/atlassian/changesets) CLI: 
 

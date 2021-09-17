@@ -25,7 +25,9 @@ jobs:
           node-version: ${{ matrix.node-version }}
 
       - name: Install dependencies
-        run: npm i
+        run: |
+          npm i
+          npm run bootstrap
 
       - name: Create Release Pull Request or Publish to npm
         uses: changesets/action@master
