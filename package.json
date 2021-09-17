@@ -27,7 +27,7 @@
 		"lerna": "lerna",
 		"changeset": "changeset",
 		"pkgs:version": "changeset version",
-		"pkgs:release": "lerna run prepublish && changeset publish",
+		"pkgs:release": "npm run bootstrap && npm run prepublish && changeset publish",
 		"ci:release": "npm run bootstrap && npm run build && changeset publish",
 		"scaffolding": "node ./scripts/helper.js scaffolding",
 		"bootstrap": "lerna bootstrap --hoist",

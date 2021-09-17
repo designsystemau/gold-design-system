@@ -10,10 +10,8 @@ Record changes made to packages that will form a changelog, using the [Changeset
 
 Update package version numbers:
 
-    npm run pkg:version
+    npm run pkgs:version
 
 Build assets and then publish to npm:
 
-TODO
-
-    npm run pkg:release
+    npm run pkgs:release
