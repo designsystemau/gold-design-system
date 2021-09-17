@@ -10,7 +10,7 @@ jobs:
     strategy:
       matrix:
         node-version: [12.13.1]
-        
+
     steps:
       - name: Check out repository code
         uses: actions/checkout@v2
