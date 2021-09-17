@@ -1,4 +1,4 @@
-@gov.au/searchbox
+@gold.au/searchbox
 ============
 
 > 
@@ -20,11 +20,11 @@
 
 
 ```shell
-yarn add @gov.au/searchbox
+yarn add @gold.au/searchbox
 ```
 
 ```shell
-npm install @gov.au/searchbox
+npm install @gold.au/searchbox
 ```
 
 
@@ -37,12 +37,12 @@ npm install @gov.au/searchbox
 ## Dependency graph
 
 ```shell
-searchbox
-├─ core
-├─ text-inputs
-│  └─ core
-└─ buttons
-   └─ core
+/searchbox
+├─ /core
+├─ /text-inputs
+│  └─ /core
+└─ /buttons
+   └─ /core
 ```
 
 
@@ -107,7 +107,7 @@ Licensed under [MIT](https://raw.githubusercontent.com/govau/design-system-compo
 Usage:
 
 ```jsx
-import AUsearchbox from '@gov.au/searchbox';
+import AUsearchbox from '@gold.au/searchbox';
 
 <AUsearchbox 
 	label="Search" 

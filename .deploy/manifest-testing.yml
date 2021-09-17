@@ -1,7 +1,0 @@
----
-applications:
-- name: design-system-components
-  buildpack: nginx_buildpack
-  memory: 64M
-  instances: 1
-  path: ./

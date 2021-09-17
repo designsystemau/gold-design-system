@@ -1,4 +1,4 @@
-@gov.au/headings
+@gold.au/headings
 ============
 
 > Class styles for display headings.
@@ -21,11 +21,11 @@
 
 
 ```shell
-yarn add @gov.au/headings
+yarn add @gold.au/headings
 ```
 
 ```shell
-npm install @gov.au/headings
+npm install @gold.au/headings
 ```
 
 
@@ -68,7 +68,7 @@ All props:
 ```
 _(💡 additional props are spread onto the component)_
 
-For more details have a look at the [usage example](https://github.com/govau/design-system-components/tree/master/packages/headings/tests/react/index.js).
+For more details have a look at the [usage example](https://github.com/designsystemau/gold-design-system/tree/main/packages/headings/tests/react/index.js).
 
 
 **[⬆ back to top](#contents)**
@@ -80,8 +80,8 @@ For more details have a look at the [usage example](https://github.com/govau/des
 ## Dependency graph
 
 ```shell
-headings
-└─ core
+/headings
+└─ /core
 ```
 
 

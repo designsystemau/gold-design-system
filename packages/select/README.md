@@ -1,4 +1,4 @@
-@gov.au/select
+@gold.au/select
 ============
 
 > The form select element for multiple options
@@ -21,11 +21,11 @@
 
 
 ```shell
-yarn add @gov.au/select
+yarn add @gold.au/select
 ```
 
 ```shell
-npm install @gov.au/select
+npm install @gold.au/select
 ```
 
 
@@ -86,7 +86,7 @@ All props:
 ```
 _(💡 additional props are spread onto the component)_
 
-For more details have a look at the [usage example](https://github.com/govau/design-system-components/tree/master/packages/select/tests/react/index.js).
+For more details have a look at the [usage example](https://github.com/designsystemau/gold-design-system/tree/main/packages/select/tests/react/index.js).
 
 
 **[⬆ back to top](#contents)**
@@ -98,8 +98,8 @@ For more details have a look at the [usage example](https://github.com/govau/des
 ## Dependency graph
 
 ```shell
-select
-└─ core
+/select
+└─ /core
 ```
 
 

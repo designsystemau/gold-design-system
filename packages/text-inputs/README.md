@@ -1,4 +1,4 @@
-@gov.au/text-inputs
+@gold.au/text-inputs
 ============
 
 > Single and multi-line text inputs.
@@ -21,11 +21,11 @@
 
 
 ```shell
-yarn add @gov.au/text-inputs
+yarn add @gold.au/text-inputs
 ```
 
 ```shell
-npm install @gov.au/text-inputs
+npm install @gold.au/text-inputs
 ```
 
 
@@ -72,7 +72,7 @@ All props:
 ```
 _(💡 additional props are spread onto the component)_
 
-For more details have a look at the [usage example](https://github.com/govau/design-system-components/tree/master/packages/control-input/tests/react/index.js).
+For more details have a look at the [usage example](https://github.com/designsystemau/gold-design-system/tree/main/packages/control-input/tests/react/index.js).
 
 
 **[⬆ back to top](#contents)**
@@ -85,24 +85,12 @@ For more details have a look at the [usage example](https://github.com/govau/des
 ## Dependency graph
 
 ```shell
-text-inputs
-└─ core
+/text-inputs
+└─ /core
 ```
 
 
 **[⬆ back to top](#contents)**
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-## Tests
-
-The visual test: https://auds.service.gov.au/packages/text-inputs/tests/site/
-
-
-**[⬆ back to top](#contents)**
-
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 

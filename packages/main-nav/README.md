@@ -1,4 +1,4 @@
-@gov.au/main-nav
+@gold.au/main-nav
 ============
 
 > Horizontal list of links to key areas on the website. Usually located in the header.
@@ -20,11 +20,11 @@
 
 
 ```shell
-yarn add @gov.au/main-nav
+yarn add @gold.au/main-nav
 ```
 
 ```shell
-npm install @gov.au/main-nav
+npm install @gold.au/main-nav
 ```
 
 
@@ -158,7 +158,7 @@ All props:
 ```
 _(💡 additional props are spread onto the component)_
 
-For more details have a look at the [usage example](https://github.com/govau/design-system-components/tree/master/packages/accordion/tests/react/index.js).
+For more details have a look at the [usage example](https://github.com/designsystemau/gold-design-system/tree/main/packages/accordion/tests/react/index.js).
 
 
 **[⬆ back to top](#contents)**
@@ -206,13 +206,13 @@ $('.js-au-main-nav').AUmainNav({
 ## Dependency graph
 
 ```shell
-main-nav
-├─ core
-├─ animate
-└─ link-list
-   ├─ core
-   └─ body
-      └─ core
+/main-nav
+├─ /core
+├─ /animate
+└─ /link-list
+   ├─ /core
+   └─ /body
+      └─ /core
 ```
 
 

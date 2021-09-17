@@ -1,4 +1,4 @@
-@gov.au/link-list
+@gold.au/link-list
 ============
 
 > A simple list of inline links..
@@ -21,11 +21,11 @@
 
 
 ```shell
-yarn add @gov.au/link-list
+yarn add @gold.au/link-list
 ```
 
 ```shell
-npm install @gov.au/link-list
+npm install @gold.au/link-list
 ```
 
 
@@ -99,7 +99,7 @@ All props:
 _(💡 additional props are spread onto the component)_
 
 
-For more details have a look at the [usage example](https://github.com/govau/design-system-components/tree/master/packages/link-list/tests/react/index.js).
+For more details have a look at the [usage example](https://github.com/designsystemau/gold-design-system/tree/main/packages/link-list/tests/react/index.js).
 
 
 **[⬆ back to top](#contents)**
@@ -111,10 +111,10 @@ For more details have a look at the [usage example](https://github.com/govau/des
 ## Dependency graph
 
 ```shell
-link-list
-├─ core
-└─ body
-   └─ core
+/link-list
+├─ /core
+└─ /body
+   └─ /core
 ```
 
 

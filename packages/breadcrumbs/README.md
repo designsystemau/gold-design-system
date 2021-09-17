@@ -1,4 +1,4 @@
-@gov.au/breadcrumbs
+@gold.au/breadcrumbs
 ============
 
 > Breadcrumbs help users understand where they are in the service and how they got there.
@@ -21,11 +21,11 @@
 
 
 ```shell
-yarn add @gov.au/breadcrumbs
+yarn add @gold.au/breadcrumbs
 ```
 
 ```shell
-npm install @gov.au/breadcrumbs
+npm install @gold.au/breadcrumbs
 ```
 
 
@@ -90,7 +90,7 @@ All props:
 ```
 _(💡 additional props are spread onto the component)_
 
-For more details have a look at the [usage example](https://github.com/govau/design-system-components/tree/master/packages/breadcrumbs/tests/react/index.js).
+For more details have a look at the [usage example](https://github.com/designsystemau/gold-design-system/tree/main/packages/breadcrumbs/tests/react/index.js).
 
 
 **[⬆ back to top](#contents)**
@@ -102,12 +102,12 @@ For more details have a look at the [usage example](https://github.com/govau/des
 ## Dependency graph
 
 ```shell
-breadcrumbs
-├─ core
-└─ link-list
-   ├─ core
-   └─ body
-      └─ core
+/breadcrumbs
+├─ /core
+└─ /link-list
+   ├─ /core
+   └─ /body
+      └─ /core
 ```
 
 

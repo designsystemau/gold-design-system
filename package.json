@@ -1,9 +1,11 @@
 {
-	"name": "auds",
+	"name": "@gold.au/design-system",
+	"private": true,
+	"version": "0.0.0",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/govau/design-system-components"
+		"url": "https://github.com/designsystemau/gold-design-system"
 	},
 	"devDependencies": {
 		"autoprefixer": "^9.4.10",
@@ -12,7 +14,7 @@
 		"express": "^4.16.4",
 		"inquirer": "6.2.2",
 		"jest-cli": "^24.7.1",
-		"lerna": "^3.14.1",
+		"lerna": "^3.22.1",
 		"node-sass": "^4.14.0",
 		"pa11y": "^5.1.0",
 		"postcss": "^8.2.10",
@@ -22,6 +24,11 @@
 		"treeify": "^1.1.0"
 	},
 	"scripts": {
+		"lerna": "lerna",
+		"changeset": "changeset",
+		"feature": "changeset",
+		"pkgs:version": "changeset version",
+		"pkgs:release": "changeset publish",
 		"scaffolding": "node ./scripts/helper.js scaffolding",
 		"bootstrap": "lerna bootstrap --hoist",
 		"build": "lerna run build",
@@ -44,6 +51,53 @@
 				"lines": 0,
 				"statements": 0
 			}
+		}
+	},
+	"dependencies": {
+		"@changesets/cli": "^2.17.0",
+		"npm-run-all": "^4.1.5"
+	},
+	"pancake": {
+		"auto-save": true,
+		"plugins": true,
+		"ignore": [],
+		"json": {
+			"enable": false,
+			"location": "pancake/",
+			"name": "pancake",
+			"content": {
+				"name": true,
+				"version": true,
+				"dependencies": true,
+				"path": true,
+				"settings": true
+			}
+		},
+		"css": {
+			"minified": true,
+			"modules": false,
+			"browsers": [
+				"last 2 versions",
+				"ie 8",
+				"ie 9",
+				"ie 10"
+			],
+			"location": "pancake/css/",
+			"name": "pancake.min.css"
+		},
+		"sass": {
+			"modules": false,
+			"location": "pancake/sass/",
+			"name": "pancake.scss"
+		},
+		"js": {
+			"minified": true,
+			"modules": false,
+			"location": "pancake/js/",
+			"name": "pancake.min.js"
+		},
+		"react": {
+			"location": "pancake/react/"
 		}
 	}
 }

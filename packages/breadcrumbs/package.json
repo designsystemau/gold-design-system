@@ -1,6 +1,6 @@
 {
-	"name": "@gov.au/breadcrumbs",
-	"version": "3.0.6",
+	"name": "@gold.au/breadcrumbs",
+	"version": "3.0.8",
 	"description": "Breadcrumbs help users understand where they are in the service and how they got there.",
 	"keywords": [
 		"auds",
@@ -9,6 +9,7 @@
 		"sass",
 		"scss",
 		"css",
+		"gold.au",
 		"gov.au",
 		"Commonwealth of Australia",
 		"design guide",
@@ -36,9 +37,9 @@
 		"pancake-module": {
 			"version": "1.0.0",
 			"plugins": [
-				"@gov.au/pancake-sass",
-				"@gov.au/pancake-react",
-				"@gov.au/pancake-json"
+				"@gold.au/pancake-sass",
+				"@gold.au/pancake-react",
+				"@gold.au/pancake-json"
 			],
 			"sass": {
 				"path": "lib/sass/_module.scss",
@@ -51,16 +52,16 @@
 	},
 	"main": "lib/js/react.es5.js",
 	"dependencies": {
-		"@gov.au/pancake": "~1",
-		"@gov.au/pancake-sass": "~2",
-		"@gov.au/pancake-react": "~1",
-		"@gov.au/pancake-json": "~1",
-		"@gov.au/core": "^4.0.0",
-		"@gov.au/link-list": "^3.0.0"
+		"@gold.au/pancake": "~1",
+		"@gold.au/pancake-sass": "~2",
+		"@gold.au/pancake-react": "~1",
+		"@gold.au/pancake-json": "~1",
+		"@gold.au/core": "^4.0.2",
+		"@gold.au/link-list": "^3.0.11"
 	},
 	"peerDependencies": {
-		"@gov.au/core": "^4.0.0",
-		"@gov.au/link-list": "^3.0.0"
+		"@gold.au/core": "^4.0.2",
+		"@gold.au/link-list": "^3.0.11"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.3.4",
@@ -80,22 +81,21 @@
 		"lib/*"
 	],
 	"engines": {
-		"node": ">=0.12.0",
-		"npm": "^3.0.0"
+		"node": ">=10.0.0",
+		"npm": ">3.0.0"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/govau/design-system-components.git"
+		"url": "https://github.com/designsystemau/gold-design-system.git"
 	},
-	"homepage": "https://designsystem.gov.au/components/breadcrumbs",
+	"homepage": "https://gold.designsystemau.org/components/breadcrumbs",
 	"bugs": {
-		"url": "https://github.com/govau/design-system-components/issues",
-		"email": "designsystem@digital.gov.au"
+		"url": "https://github.com/designsystemau/gold-design-system/issues"
 	},
 	"author": {
-		"name": "Commonwealth of Australia, DTA",
-		"email": "designsystem@digital.gov.au",
-		"url": "https://www.dta.gov.au/"
+		"name": "Design System AU",
+		"email": "maintainers@designsystemau.org",
+		"url": "https://designsystemau.org/"
 	},
 	"contributors": [
 		{

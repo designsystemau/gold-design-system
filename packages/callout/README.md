@@ -1,4 +1,4 @@
-@gov.au/callout
+@gold.au/callout
 ============
 
 > Use callout to notify and alert users of important snippets of information.
@@ -21,11 +21,11 @@
 
 
 ```shell
-yarn add @gov.au/callout
+yarn add @gold.au/callout
 ```
 
 ```shell
-npm install @gov.au/callout
+npm install @gold.au/callout
 ```
 
 
@@ -92,7 +92,7 @@ All props:
 ```
 _(💡 additional props are spread onto the component)_
 
-For more details have a look at the [usage example](https://github.com/govau/design-system-components/tree/master/packages/callout/tests/react/index.js).
+For more details have a look at the [usage example](https://github.com/designsystemau/gold-design-system/tree/main/packages/callout/tests/react/index.js).
 
 
 **[⬆ back to top](#contents)**
@@ -104,8 +104,8 @@ For more details have a look at the [usage example](https://github.com/govau/des
 ## Dependency graph
 
 ```shell
-callout
-└─ core
+/callout
+└─ /core
 ```
 
 

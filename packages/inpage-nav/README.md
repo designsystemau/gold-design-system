@@ -1,4 +1,4 @@
-@gov.au/inpage-nav
+@gold.au/inpage-nav
 ============
 
 > Use inpage-nav links to help users scan and jump to content of a page.
@@ -21,11 +21,11 @@
 
 
 ```shell
-yarn add @gov.au/inpage-nav
+yarn add @gold.au/inpage-nav
 ```
 
 ```shell
-npm install @gov.au/inpage-nav
+npm install @gold.au/inpage-nav
 ```
 
 
@@ -102,7 +102,7 @@ All props:
 ```
 _(💡 additional props are spread onto the component)_
 
-For more details have a look at the [usage example](https://github.com/govau/design-system-components/tree/master/packages/inpage-nav/tests/react/index.js).
+For more details have a look at the [usage example](https://github.com/designsystemau/gold-design-system/tree/main/packages/inpage-nav/tests/react/index.js).
 
 
 **[⬆ back to top](#contents)**
@@ -114,24 +114,13 @@ For more details have a look at the [usage example](https://github.com/govau/des
 ## Dependency graph
 
 ```shell
-inpage-nav
-├─ core
-└─ link-list
-   ├─ core
-   └─ body
-      └─ core
+/inpage-nav
+├─ /core
+└─ /link-list
+   ├─ /core
+   └─ /body
+      └─ /core
 ```
-
-
-**[⬆ back to top](#contents)**
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-## Tests
-
-The visual test: https://auds.service.gov.au/packages/inpage-nav/tests/site/
 
 
 **[⬆ back to top](#contents)**

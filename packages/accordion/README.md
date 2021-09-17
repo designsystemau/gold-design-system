@@ -1,4 +1,4 @@
-@gov.au/accordion
+@gold.au/accordion
 ============
 
 > Allow the user to toggle the visibility of an element
@@ -21,11 +21,11 @@
 
 
 ```shell
-yarn add @gov.au/accordion
+yarn add @gold.au/accordion
 ```
 
 ```shell
-npm install @gov.au/accordion
+npm install @gold.au/accordion
 ```
 
 
@@ -179,7 +179,7 @@ All props:
 ```
 _(💡 additional props are spread onto the component)_
 
-For more details have a look at the [usage example](https://github.com/govau/design-system-components/tree/master/packages/accordion/tests/react/index.js).
+For more details have a look at the [usage example](https://github.com/designsystemau/gold-design-system/tree/main/packages/accordion/tests/react/index.js).
 
 
 **[⬆ back to top](#contents)**
@@ -227,9 +227,9 @@ $('.js-au-accordion-wrapper').AUaccordion({
 ## Dependency graph
 
 ```shell
-accordion
-├─ animate
-└─ core
+/accordion
+├─ /animate
+└─ /core
 ```
 
 
@@ -278,7 +278,7 @@ The visual test: https://auds.service.gov.au/packages/accordion/tests/site/
 * v2.0.2 - Fix issue with scope inside AU.animate.Run
 * v2.0.1 - Fix dependencies
 * v2.0.0 - Change to focus colour and border/muted color mix
-* v1.0.1 - IE8 spacing above triangle fixed [309](https://github.com/govau/design-system-components/issues/309)
+* v1.0.1 - IE8 spacing above triangle fixed [309](https://github.com/designsystemau/gold-design-system/issues/309)
 * v1.0.0 - Moved to AU namespace, added new color themes and spacing
 * v0.3.0 - Added pancake-react plugin, ES5 main file
 * v0.2.0 - Added react and jQuery component

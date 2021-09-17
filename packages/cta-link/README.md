@@ -1,4 +1,4 @@
-@gov.au/cta-link
+@gold.au/cta-link
 ============
 
 > Use cta links to draw attention to a primary call to action.
@@ -21,11 +21,11 @@
 
 
 ```shell
-yarn add @gov.au/cta-link
+yarn add @gold.au/cta-link
 ```
 
 ```shell
-npm install @gov.au/cta-link
+npm install @gold.au/cta-link
 ```
 
 
@@ -69,7 +69,7 @@ All props:
 />
 ```
 
-For more details have a look at the [usage example](https://github.com/govau/design-system-components/tree/master/packages/cta-link/tests/react/index.js).
+For more details have a look at the [usage example](https://github.com/designsystemau/gold-design-system/tree/main/packages/cta-link/tests/react/index.js).
 
 
 **[⬆ back to top](#contents)**
@@ -81,8 +81,8 @@ For more details have a look at the [usage example](https://github.com/govau/des
 ## Dependency graph
 
 ```shell
-cta-link
-└─ core
+/cta-link
+└─ /core
 ```
 
 
@@ -94,7 +94,7 @@ cta-link
 
 ## Tests
 
-The visual test: https://auds.service.gov.au/packages/cta-link/tests/site/
+The visual test: https://auds.service.gold.au/packages/cta-link/tests/site/
 
 
 **[⬆ back to top](#contents)**

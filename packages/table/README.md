@@ -1,4 +1,4 @@
-@gov.au/table
+@gold.au/table
 ============
 
 > Used to display tabular data
@@ -20,11 +20,11 @@
 
 
 ```shell
-yarn add @gov.au/table
+yarn add @gold.au/table
 ```
 
 ```shell
-npm install @gov.au/table
+npm install @gold.au/table
 ```
 
 
@@ -37,8 +37,8 @@ npm install @gov.au/table
 ## Dependency graph
 
 ```shell
-table
-└─ core
+/table
+└─ /core
 ```
 
 
@@ -101,7 +101,7 @@ Licensed under [MIT](https://raw.githubusercontent.com/govau/design-system-compo
 Usage:
 
 ```jsx
-import AUtable, {AUtableResponsiveWrapper, AUtableCaption, AUtableCell, AUtableHead, AUtableHeader, AUtableBody, AUtableRow} from '@gov.au/table';
+import AUtable, {AUtableResponsiveWrapper, AUtableCaption, AUtableCell, AUtableHead, AUtableHeader, AUtableBody, AUtableRow} from '@gold.au/table';
 
 //simple example
 <AUtable 

@@ -1,4 +1,4 @@
-@gov.au/[-replace-name-]
+@gold.au/[-replace-name-]
 ============
 
 > [-replace-description-]
@@ -20,11 +20,11 @@
 
 
 ```shell
-yarn add @gov.au/[-replace-name-]
+yarn add @gold.au/[-replace-name-]
 ```
 
 ```shell
-npm install @gov.au/[-replace-name-]
+npm install @gold.au/[-replace-name-]
 ```
 
 

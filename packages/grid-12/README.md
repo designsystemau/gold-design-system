@@ -1,4 +1,4 @@
-@gov.au/grid-12
+@gold.au/grid-12
 ============
 
 > Implementation of the Bootstrap 3 grid.
@@ -20,11 +20,11 @@
 
 
 ```shell
-yarn add @gov.au/grid-12
+yarn add @gold.au/grid-12
 ```
 
 ```shell
-npm install @gov.au/grid-12
+npm install @gold.au/grid-12
 ```
 
 
@@ -37,20 +37,9 @@ npm install @gov.au/grid-12
 ## Dependency graph
 
 ```shell
-grid-12
-└─ core
+/grid-12
+└─ /core
 ```
-
-
-**[⬆ back to top](#contents)**
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-## Tests
-
-The visual test: https://auds.service.gov.au/packages/grid-12/tests/site/
 
 
 **[⬆ back to top](#contents)**

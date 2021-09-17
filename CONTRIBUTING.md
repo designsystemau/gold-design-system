@@ -1,14 +1,19 @@
-Contributing to Australian Government Design System Components
+Contributing to GOLD Design System
 ======================
 
-Hi there! Thank you for your interest in contributing to the design system components, we really appreciate it.
+Hi there! Thank you for your interest in contributing to GOLD Design System, we really appreciate it.
 
-There are many ways to contribute – reporting bugs, fixing bugs, new module suggestions, submitting pull requests for enhancements to modules or even writing
-documentation.
+Join the community on [Slack](https://designsystemau-slack.herokuapp.com/).
+
+There are many ways to contribute:
+– reporting bugs
+- fixing bugs
+- writing documentation
+- suggesting new features, please refer to the [RFC process](https://github.com/designsystemau/RFCs)
 
 Wherever you are, and whatever your discipline is, you are invited to contribute.
 
-
+<!-- 
 ## Contents
 
 * [Contributing a new component](#contributing-a-new-component)
@@ -130,15 +135,15 @@ For example, what happens with a navigation component that has more items than d
 
 **Code is for humans.** Please look at the coding style and work with it, not against it. We write comments, add spacing, and prefer readable code over clever code. Yes, code is actually for computers, but it is humans that need to maintain it.
 
-**Code comments.** Code should be commented so that it is as usable as possible. Try to provide reasoning or links to documentation about any peculiar decisions that had to be made. [For example.](https://github.com/govau/design-system-components/blob/master/packages/body/src/sass/_module.scss#L127)
+**Code comments.** Code should be commented so that it is as usable as possible. Try to provide reasoning or links to documentation about any peculiar decisions that had to be made. [For example.](https://github.com/designsystemau/gold-design-system/blob/main/packages/body/src/sass/_module.scss#L127)
 
-**Follow the folder structure.** New components should follow the same folder structure as the [existing components.](https://github.com/govau/design-system-components/tree/master/.templates/new-module)
+**Follow the folder structure.** New components should follow the same folder structure as the [existing components.](https://github.com/designsystemau/gold-design-system/tree/main/.templates/new-module)
 
 **CSS** can be dependent on other components, but must use core functions and mixins at a minimum.
 
-* For spacing, padding, or other metrics like border-width, use [AU-space()](https://github.com/govau/design-system-components/blob/master/packages/core/src/sass/_globals.scss#L475)
-* For font-sizes and line-height, use [AU-fontgrid()](https://github.com/govau/design-system-components/blob/master/packages/core/src/sass/_globals.scss#L629)
-* For colours, use the [core colour variables](https://github.com/govau/design-system-components/blob/master/packages/core/src/sass/_globals.scss#L741)
+* For spacing, padding, or other metrics like border-width, use [AU-space()](https://github.com/designsystemau/gold-design-system/blob/main/packages/core/src/sass/_globals.scss#L475)
+* For font-sizes and line-height, use [AU-fontgrid()](https://github.com/designsystemau/gold-design-system/blob/main/packages/core/src/sass/_globals.scss#L629)
+* For colours, use the [core colour variables](https://github.com/designsystemau/gold-design-system/blob/main/packages/core/src/sass/_globals.scss#L741)
 
 **JavaScript.** The Design System supports **JavaScript, JQuery, and React.** To make integration easier any JavaScript supplied for a component should be written in at least one of these.
 
@@ -150,7 +155,7 @@ For example, what happens with a navigation component that has more items than d
 
 **Accessibility.** A component on its own must be accessible to [WCAG 2.1 level AA.](https://www.w3.org/TR/WCAG21/) Some documentation on how this has been checked, tested, or decisions made to support accessibility should be supplied.
 
-**Browser and device tested.** All components should meet our [browser support requirements.](https://github.com/govau/design-system-components#browser-support)
+**Browser and device tested.** All components should meet our [browser support requirements.](https://github.com/designsystemau/gold-design-system#browser-support)
 
 **No JavaScript fallbacks.** All components must degrade _gracefully_ when JavaScript is disabled. We expect that a user can still complete their task without JavaScript enabled, it just might not be beautiful. For example, accordions default to ‘open’ when JavaScript is disabled so that users can still use the content.
 
@@ -172,7 +177,7 @@ Provide rationale; the more the better. We aim to explain design and code decisi
 
 ## Reporting Bugs, Asking Questions, Sending Suggestions
 
-Use the search in [issues](https://github.com/govau/design-system-components/issues) to see if the same bug, question or suggestion has already been raised.
+Use the search in [issues](https://github.com/designsystemau/gold-design-system/issues) to see if the same bug, question or suggestion has already been raised.
 
 If you’re requesting a new module, prefix the title with `new module: `.
 
@@ -181,7 +186,7 @@ happened instead. For more info look at our [issue template](./ISSUE_TEMPLATE.md
 
 **[⬆ back to top](#contents)**
 
-
+-->
 -------------------------------------------------------------------------------------------------
 
 
