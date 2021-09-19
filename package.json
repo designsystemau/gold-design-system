@@ -24,9 +24,7 @@
 		"treeify": "^1.1.0"
 	},
 	"scripts": {
-		"lerna": "lerna",
 		"changeset": "changeset",
-		"feature": "changeset",
 		"pkgs:version": "changeset version",
 		"pkgs:release": "changeset publish",
 		"scaffolding": "node ./scripts/helper.js scaffolding",

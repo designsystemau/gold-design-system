@@ -44,9 +44,10 @@
 		}
 	},
 	"dependencies": {
-		"@gold.au/pancake": "~1",
-		"@gold.au/pancake-sass": "~2",
-		"@gold.au/pancake-json": "~1",
+		"@gold.au/pancake": "~2.0.0",
+		"@gold.au/pancake-json": "~2.0.0",
+		"@gold.au/pancake-sass": "~3.0.0",
+		"@gold.au/pancake-react": "~2.0.0",
 		"sass-versioning": "^0.3.0"
 	},
 	"peerDependencies": {},

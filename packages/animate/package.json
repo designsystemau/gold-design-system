@@ -49,9 +49,9 @@
 	},
 	"main": "lib/js/module.js",
 	"dependencies": {
-		"@gold.au/pancake": "~1",
-		"@gold.au/pancake-js": "~1",
-		"@gold.au/pancake-json": "~1"
+		"@gold.au/pancake": "^2",
+		"@gold.au/pancake-js": "^2",
+		"@gold.au/pancake-json": "^2"
 	},
 	"peerDependencies": {},
 	"devDependencies": {
