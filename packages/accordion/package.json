@@ -56,11 +56,11 @@
 	"dependencies": {
 		"@gold.au/animate": "^1.0.16",
 		"@gold.au/core": "^4.0.2",
-		"@gold.au/pancake": "^1.4.1",
-		"@gold.au/pancake-js": "~1",
-		"@gold.au/pancake-json": "~1",
-		"@gold.au/pancake-react": "~1",
-		"@gold.au/pancake-sass": "~2"
+		"@gold.au/pancake": "~2.0.0",
+		"@gold.au/pancake-js": "~2.0.0",
+		"@gold.au/pancake-json": "~2.0.0",
+		"@gold.au/pancake-sass": "~3.0.0",
+		"@gold.au/pancake-react": "~2.0.0"
 	},
 	"peerDependencies": {
 		"@gold.au/animate": "^1.0.16",

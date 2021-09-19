@@ -6,8 +6,9 @@ Set up the right Node version:
 
     nvm use
 
-Configure the monorepo: 
+Configure the monorepo, and install all the dependencies: 
 
+    npm i 
     npm run bootstrap 
     
 Work on modules individually: 
@@ -17,8 +18,8 @@ Work on modules individually:
 
 ## Publishing
 
-Publishing to npm is automated, but requires developers to add [Changesets](https://github.com/atlassian/changesets):   
-
-Record changes made to packages that will form a changelog, using the  CLI: 
+Include a [Changeset](https://github.com/atlassian/changesets) with your changes:
 
     npm run changeset
+
+Changes will be deployed in CI on merge to `main`, see './.github/workflows/publish.yml'.
