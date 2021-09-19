@@ -1,6 +1,6 @@
 {
 	"name": "@gold.au/side-nav",
-	"version": "5.0.11",
+	"version": "6.0.0",
 	"description": "A vertical list of links for site navigation typically placed next to the body content.",
 	"keywords": [
 		"auds",
@@ -59,16 +59,16 @@
 		"@gold.au/pancake-json": "~2.0.0",
 		"@gold.au/pancake-sass": "~3.0.0",
 		"@gold.au/pancake-react": "~2.0.0",
-		"@gold.au/core": "^4.0.2",
-		"@gold.au/animate": "^1.0.16",
-		"@gold.au/accordion": "^7.0.11",
-		"@gold.au/link-list": "^3.0.11"
+		"@gold.au/core": "^5.0.0",
+		"@gold.au/animate": "^2.0.0",
+		"@gold.au/accordion": "^8.0.0",
+		"@gold.au/link-list": "^4.0.0"
 	},
 	"peerDependencies": {
-		"@gold.au/core": "^4.0.2",
-		"@gold.au/animate": "^1.0.16",
-		"@gold.au/accordion": "^7.0.11",
-		"@gold.au/link-list": "^3.0.11"
+		"@gold.au/core": "^5.0.0",
+		"@gold.au/animate": "^2.0.0",
+		"@gold.au/accordion": "^8.0.0",
+		"@gold.au/link-list": "^4.0.0"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.3.4",

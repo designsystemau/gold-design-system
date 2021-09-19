@@ -1,5 +1,19 @@
 @gold.au/side-nav CHANGELOG
 
+## 6.0.0
+
+### Major Changes
+
+- 625cb4cf: Publish to npm scope at @gold.au
+
+### Patch Changes
+
+- Updated dependencies [625cb4cf]
+  - @gold.au/accordion@8.0.0
+  - @gold.au/animate@2.0.0
+  - @gold.au/core@5.0.0
+  - @gold.au/link-list@4.0.0
+
 ## 5.0.11
 
 ### Patch Changes

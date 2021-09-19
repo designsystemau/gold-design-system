@@ -1,5 +1,16 @@
 @gold.au/text-inputs CHANGELOG
 
+## 3.0.0
+
+### Major Changes
+
+- 625cb4cf: Publish to npm scope at @gold.au
+
+### Patch Changes
+
+- Updated dependencies [625cb4cf]
+  - @gold.au/core@5.0.0
+
 ## 2.1.5
 
 ### Patch Changes

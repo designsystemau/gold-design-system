@@ -1,5 +1,17 @@
 @gold.au/accordion CHANGELOG
 
+## 8.0.0
+
+### Major Changes
+
+- 625cb4cf: Publish to npm scope at @gold.au
+
+### Patch Changes
+
+- Updated dependencies [625cb4cf]
+  - @gold.au/animate@2.0.0
+  - @gold.au/core@5.0.0
+
 ## 7.0.11
 
 ### Patch Changes

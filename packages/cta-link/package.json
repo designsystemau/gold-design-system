@@ -1,6 +1,6 @@
 {
 	"name": "@gold.au/cta-link",
-	"version": "2.2.3",
+	"version": "3.0.0",
 	"description": "Use cta links to draw attention to a primary call to action.",
 	"keywords": [
 		"auds",
@@ -57,10 +57,10 @@
 		"@gold.au/pancake-json": "~2.0.0",
 		"@gold.au/pancake-sass": "~3.0.0",
 		"@gold.au/pancake-react": "~2.0.0",
-		"@gold.au/core": "^4.0.2"
+		"@gold.au/core": "^5.0.0"
 	},
 	"peerDependencies": {
-		"@gold.au/core": "^4.0.2"
+		"@gold.au/core": "^5.0.0"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.3.4",

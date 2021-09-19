@@ -1,6 +1,6 @@
 {
 	"name": "@gold.au/grid-12",
-	"version": "2.1.3",
+	"version": "3.0.0",
 	"description": "Implementation of the Bootstrap 3 grid.",
 	"keywords": [
 		"auds",
@@ -50,10 +50,10 @@
 		"@gold.au/pancake": "~2.0.0",
 		"@gold.au/pancake-json": "~2.0.0",
 		"@gold.au/pancake-sass": "~3.0.0",
-		"@gold.au/core": "^4.0.2"
+		"@gold.au/core": "^5.0.0"
 	},
 	"peerDependencies": {
-		"@gold.au/core": "^4.0.2"
+		"@gold.au/core": "^5.0.0"
 	},
 	"devDependencies": {
 		"browser-sync": "^2.26.7",
