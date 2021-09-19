@@ -26,7 +26,7 @@
 	"scripts": {
 		"changeset": "changeset",
 		"pkgs:version": "changeset version",
-		"pkgs:release": "changeset publish",
+		"pkgs:release": "npm run build && changeset publish",
 		"scaffolding": "node ./scripts/helper.js scaffolding",
 		"bootstrap": "lerna bootstrap --hoist",
 		"build": "lerna run build",
