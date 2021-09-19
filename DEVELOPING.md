@@ -6,8 +6,9 @@ Set up the right Node version:
 
     nvm use
 
-Configure the monorepo: 
+Configure the monorepo, and install all the dependencies: 
 
+    npm i 
     npm run bootstrap 
     
 Work on modules individually: 

@@ -30,12 +30,10 @@
 		"scaffolding": "node ./scripts/helper.js scaffolding",
 		"bootstrap": "lerna bootstrap --hoist",
 		"build": "lerna run build",
-		"publish": "lerna version --no-git-tag-version --no-push",
-		"nuke": "npm run delete:node_modules | npm run delete:lib",
-		"delete:node_modules": "lerna clean --yes && rimraf node_modules",
-		"delete:lib": "rimraf packages/*/lib",
+		"test": "node scripts/helper.js test && node ./scripts/a11y.js",
 		"test:unit-test": "jest",
-		"test": "node scripts/helper.js test && node ./scripts/a11y.js"
+		"setup": "npm i && npm run bootstrap",
+		"clean": "git clean -xdf"
 	},
 	"jest": {
 		"testRegex": "\\.spec.js$",
