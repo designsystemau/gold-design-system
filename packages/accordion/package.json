@@ -1,6 +1,6 @@
 {
 	"name": "@gold.au/accordion",
-	"version": "7.0.11",
+	"version": "8.0.0",
 	"description": "Allow the user to toggle the visibility of an element",
 	"keywords": [
 		"auds",
@@ -54,8 +54,8 @@
 	},
 	"main": "lib/js/react.es5.js",
 	"dependencies": {
-		"@gold.au/animate": "^1.0.16",
-		"@gold.au/core": "^4.0.2",
+		"@gold.au/animate": "^2.0.0",
+		"@gold.au/core": "^5.0.0",
 		"@gold.au/pancake": "~2.0.0",
 		"@gold.au/pancake-js": "~2.0.0",
 		"@gold.au/pancake-json": "~2.0.0",
@@ -63,8 +63,8 @@
 		"@gold.au/pancake-react": "~2.0.0"
 	},
 	"peerDependencies": {
-		"@gold.au/animate": "^1.0.16",
-		"@gold.au/core": "^4.0.2"
+		"@gold.au/animate": "^2.0.0",
+		"@gold.au/core": "^5.0.0"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.3.4",

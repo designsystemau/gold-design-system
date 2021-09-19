@@ -1,5 +1,11 @@
 @gold.au/animate CHANGELOG
 
+## 2.0.0
+
+### Major Changes
+
+- 625cb4cf: Publish to npm scope at @gold.au
+
 ## 1.0.16
 
 ### Patch Changes

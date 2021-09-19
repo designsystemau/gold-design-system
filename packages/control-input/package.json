@@ -1,6 +1,6 @@
 {
 	"name": "@gold.au/control-input",
-	"version": "3.0.4",
+	"version": "4.0.0",
 	"description": "Control inputs include radio buttons and checkboxes. They allow users to select one or more options.",
 	"keywords": [
 		"auds",
@@ -54,10 +54,10 @@
 		"@gold.au/pancake-json": "~2.0.0",
 		"@gold.au/pancake-sass": "~3.0.0",
 		"@gold.au/pancake-react": "~2.0.0",
-		"@gold.au/core": "^4.0.2"
+		"@gold.au/core": "^5.0.0"
 	},
 	"peerDependencies": {
-		"@gold.au/core": "^4.0.2"
+		"@gold.au/core": "^5.0.0"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.3.4",

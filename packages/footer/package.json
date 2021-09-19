@@ -1,6 +1,6 @@
 {
 	"name": "@gold.au/footer",
-	"version": "3.0.8",
+	"version": "4.0.0",
 	"description": "Footers help users who reach the bottom of a page without finding what they want.",
 	"keywords": [
 		"auds",
@@ -57,10 +57,10 @@
 		"@gold.au/pancake-json": "~2.0.0",
 		"@gold.au/pancake-sass": "~3.0.0",
 		"@gold.au/pancake-react": "~2.0.0",
-		"@gold.au/core": "^4.0.2"
+		"@gold.au/core": "^5.0.0"
 	},
 	"peerDependencies": {
-		"@gold.au/core": "^4.0.2"
+		"@gold.au/core": "^5.0.0"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.3.4",

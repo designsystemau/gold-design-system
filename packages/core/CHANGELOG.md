@@ -1,5 +1,11 @@
 @gold.au/core CHANGELOG
 
+## 5.0.0
+
+### Major Changes
+
+- 625cb4cf: Publish to npm scope at @gold.au
+
 ## 4.0.2
 
 ### Patch Changes

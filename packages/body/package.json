@@ -1,6 +1,6 @@
 {
 	"name": "@gold.au/body",
-	"version": "2.2.3",
+	"version": "3.0.0",
 	"description": "Basic body styles for body HTML elements",
 	"keywords": [
 		"auds",
@@ -50,10 +50,10 @@
 		"@gold.au/pancake": "~2.0.0",
 		"@gold.au/pancake-json": "~2.0.0",
 		"@gold.au/pancake-sass": "~3.0.0",
-		"@gold.au/core": "^4.0.2"
+		"@gold.au/core": "^5.0.0"
 	},
 	"peerDependencies": {
-		"@gold.au/core": "^4.0.2"
+		"@gold.au/core": "^5.0.0"
 	},
 	"devDependencies": {
 		"browser-sync": "^2.26.7",
