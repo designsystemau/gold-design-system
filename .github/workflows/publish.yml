@@ -1,4 +1,4 @@
-name: Create PR to publish to npm
+name: Publish
 on:
   push:
     branches:
@@ -29,7 +29,7 @@ jobs:
           npm i
           npm run bootstrap
 
-      - name: Create Release Pull Request
+      - name: Create "Version Packages" Pull Request --or-- trigger Publish to npm Action
         uses: changesets/action@master
         with:
           publish: npm run pkgs:release
